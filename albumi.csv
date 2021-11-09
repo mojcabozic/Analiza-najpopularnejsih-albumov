@@ -14,7 +14,7 @@ Pet Sounds,The Beach Boys,16 May 1966,4.18,36515,12
 Illmatic,Nas,19 April 1994,4.20,31127,13
 In the Aeroplane Over the Sea,Neutral Milk Hotel,10 February 1998,4.09,48306,14
 Sgt. Pepper&#39;s Lonely Hearts Club Band,The Beatles,1 June 1967,4.13,43846,15
-Enter the Wu-Tang (36 Chambers),Wu,9 November 1993,4.19,27787,16
+Enter the Wu-Tang (36 Chambers),Wu-Tang Clan,9 November 1993,4.19,27787,16
 Pink Moon,Nick Drake,25 February 1972,4.18,29779,17
 Spiderland,Slint,27 March 1991,4.14,33214,18
 Unknown Pleasures,Joy Division,15 June 1979,4.10,39976,19
@@ -26,7 +26,7 @@ Dummy,Portishead,22 August 1994,4.11,30233,24
 Marquee Moon,Television,8 February 1977,4.13,25949,25
 Hounds of Love,Kate Bush,16 September 1985,4.15,22989,26
 Blonde on Blonde,Bob Dylan,20 June 1966,4.15,22338,27
-F♯A♯∞,Godspeed You Black Emperor,14 August 1997,4.12,26877,28
+F♯A♯∞,Godspeed You Black Emperor!,14 August 1997,4.12,26877,28
 The Doors,The Doors,4 January 1967,4.09,30926,29
 Endtroducing.....,DJ Shadow,19 November 1996,4.11,26985,30
 Bitches Brew,Miles Davis,30 March 1970,4.16,19199,31
@@ -47,7 +47,7 @@ The College Dropout,Kanye West,10 February 2004,4.03,35132,45
 Daydream Nation,Sonic Youth,18 October 1988,4.05,28147,46
 Blonde,Frank Ocean,20 August 2016,4.04,30176,47
 The Velvet Underground,The Velvet Underground,March 1969,4.09,22286,48
-Liquid Swords,Genius,7 November 1995,4.11,17454,49
+Liquid Swords,Genius/GZA,7 November 1995,4.11,17454,49
 What&#39;s Going On,Marvin Gaye,21 May 1971,4.11,18958,50
 Ride the Lightning,Metallica,30 July 1984,4.05,27794,51
 Magical Mystery Tour,The Beatles,27 November 1967,4.06,27507,52
@@ -121,11 +121,11 @@ Discovery,Daft Punk,13 March 2001,3.94,26336,119
 Cosmo&#39;s Factory,Creedence Clearwater Revival,25 July 1970,4.04,10281,120
 Rage Against the Machine,Rage Against the Machine,10 November 1992,3.94,22256,121
 BBC Sessions,Led Zeppelin,18 November 1997,4.09,2385,122
-Igor,Tyler,17 May 2019,3.91,32646,123
+Igor,"Tyler, the Creator",17 May 2019,3.91,32646,123
 Rétrospective Vol. 1 &amp; 2,Magma,1981,4.10,484,124
 If You&#39;re Feeling Sinister,Belle and Sebastian,18 November 1996,3.97,18216,125
 Surfer Rosa,Pixies,21 March 1988,3.94,24397,126
-Piñata,Freddie Gibbs ,18 March 2014,3.98,17423,127
+Piñata,Freddie Gibbs &amp; Madlib,18 March 2014,3.98,17423,127
 Painkiller,Judas Priest,3 September 1990,4.00,10784,128
 Colors_Live,Between the Buried and Me,14 October 2008,4.07,650,129
 Reign in Blood,Slayer,7 October 1986,3.95,19053,130
@@ -146,7 +146,7 @@ Fresh Fruit for Rotting Vegetables,Dead Kennedys,2 September 1980,3.97,14978,144
 Coltrane &quot;Live&quot; at the Village Vanguard,John Coltrane,February 1962,4.06,2075,145
 At San Quentin,Johnny Cash,4 June 1969,4.06,3863,146
 For Sale: Live at Maxwell&#39;s 1986,The Replacements,6 October 2017,4.11,308,147
-Flower Boy,Tyler,21 July 2017,3.90,29943,148
+Flower Boy,"Tyler, the Creator",21 July 2017,3.90,29943,148
 Expensive Shit,Fela Kuti,1975,4.03,7407,149
 Swordfishtrombones,Tom Waits,September 1983,3.99,12310,150
 The Jimi Hendrix Concerts,Jimi Hendrix,August 1982,4.10,376,151
@@ -226,7 +226,7 @@ Live at the Fillmore East 1970,Ten Years After,14 August 2001,4.03,356,224
 KIDS SEE GHOSTS,Kids See Ghosts,8 June 2018,3.83,29734,225
 Third,Portishead,28 April 2008,3.90,16505,226
 Band of Gypsys,Hendrix,25 March 1970,3.99,5799,227
-Relationship of Command,At the Drive,12 September 2000,3.91,16049,228
+Relationship of Command,At the Drive-In,12 September 2000,3.91,16049,228
 Vaudeville Villain,Viktor Vaughn,16 September 2003,3.96,9417,229
 The Lord of the Rings: The Fellowship of the Ring,Howard Shore,20 November 2001,3.99,2375,230
 Fôrça bruta,Jorge Ben,1970,4.00,3412,231
@@ -277,7 +277,7 @@ A Crow Looked at Me,Mount Eerie,24 March 2017,3.87,13996,275
 Aqualung,Jethro Tull,19 March 1971,3.90,12751,276
 Rock in Rio,Iron Maiden,26 March 2002,3.96,2082,277
 Let It Be,The Replacements,September 1984,3.91,10824,278
-There&#39;s a Riot Goin&#39; On,Sly ,20 November 1971,3.93,8163,279
+There&#39;s a Riot Goin&#39; On,Sly &amp; The Family Stone,20 November 1971,3.93,8163,279
 You&#39;re Living All Over Me,Dinosaur,July 1987,3.88,15290,280
 Mingus Mingus Mingus Mingus Mingus,Charles Mingus,May 1964,3.96,4913,281
 Les Bains Douches 18 December 1979,Joy Division,April 2001,3.97,1754,282
@@ -302,7 +302,7 @@ Anthems to the Welkin at Dusk,Emperor,8 July 1997,3.92,6723,300
 Crack the Skye,Mastodon,23 March 2009,3.87,11103,301
 Roforofo Fight,Fela Kuti,1972,3.96,3102,302
 Operation:LIVEcrime,Queensrÿche,2001,3.94,537,303
-Last Concert,Ground,22 May 1999,3.98,440,304
+Last Concert,Ground-Zero,22 May 1999,3.98,440,304
 Lamentations: Live at Shepherd&#39;s Bush Empire 2003,Opeth,17 October 2006,3.96,719,305
 プネウマ (Pneuma),青葉市子 ,25 October 2017,3.98,552,306
 Visions of the Country,Robbie Basho,1978,3.95,2810,307
@@ -329,10 +329,10 @@ Elliott Smith,Elliott Smith,21 July 1995,3.89,11075,327
 Exit...Stage Left,Rush,October 1981,3.94,1925,328
 Rock Dream,Boris With Merzbow,20 November 2007,3.94,1810,329
 Deep Purple in Concert,Deep Purple,December 1980,3.98,570,330
-UNDERTALE,Toby ,13 August 2015,3.92,3979,331
+UNDERTALE,Toby &#34;Radiation&#34; Fox,13 August 2015,3.92,3979,331
 Bottomless Pit,Death Grips,6 May 2016,3.82,20842,332
 Selected Ambient Works Volume II,Aphex Twin,7 March 1994,3.86,14270,333
-Pieces of a Man,Gil Scott,September 1971,3.93,5118,334
+Pieces of a Man,Gil Scott-Heron,September 1971,3.93,5118,334
 千と千尋の神隠し (Sen to Chihiro no kamikakushi),久石譲 ,18 July 2001,3.95,1836,335
 Seasons in the Abyss,Slayer,9 October 1990,3.88,10271,336
 The Miseducation of Lauryn Hill,Lauryn Hill,25 August 1998,3.88,9781,337
@@ -343,7 +343,7 @@ Lady Soul,Aretha Franklin,22 January 1968,3.93,3901,341
 Past Lives,Black Sabbath,20 August 2002,3.95,917,342
 Symphony No. 9 &quot;Choral&quot;,Berliner Philharmoniker,1986,3.95,408,343
 Mista Thug Isolation,Lil Ugly Mane,11 February 2012,3.87,11357,344
-Reasonable Doubt,Jay,25 June 1996,3.88,9642,345
+Reasonable Doubt,Jay-Z,25 June 1996,3.88,9642,345
 Ellington at Newport,Duke Ellington,September 1956,3.96,1770,346
 I Have a Pony,Steven Wright,1985,3.97,303,347
 Demon Days,Gorillaz,24 May 2005,3.80,26170,348
@@ -351,7 +351,7 @@ Superunknown,Soundgarden,8 March 1994,3.86,13991,349
 Desire,Bob Dylan,5 January 1976,3.89,9523,350
 California,Mr. Bungle,13 July 1999,3.87,9858,351
 África Brasil,Jorge Ben,1976,3.93,3223,352
-Sobrevivendo no inferno,Racionais MC,October 1997,3.94,1386,353
+Sobrevivendo no inferno,Racionais MC&#39;s,October 1997,3.94,1386,353
 Speaking in Tongues,Talking Heads,1 June 1983,3.87,13869,354
 Those Once Loyal,Bolt Thrower,14 November 2005,3.91,3805,355
 Talking Book,Stevie Wonder,28 October 1972,3.91,7050,356
@@ -377,7 +377,7 @@ It&#39;s Too Late to Stop Now,Van Morrison,January 1974,3.94,1337,375
 Nebraska,Bruce Springsteen,20 September 1982,3.87,9923,376
 ...And Justice for All,Metallica,25 August 1988,3.80,22356,377
 The Modern Lovers,The Modern Lovers,August 1976,3.87,8595,378
-NEU! &#39;75,NEU,1975,3.89,7889,379
+NEU! &#39;75,NEU!,1975,3.89,7889,379
 Willy and the Poor Boys,Creedence Clearwater Revival,2 November 1969,3.90,6725,380
 Rocket to Russia,Ramones,4 November 1977,3.87,8766,381
 Overkill,Motörhead,24 March 1979,3.89,6493,382
@@ -413,7 +413,7 @@ Sleeping Beauty,Sun Ra and His Arkestra,1979,3.92,2733,410
 Taking Tiger Mountain (By Strategy),Eno,November 1974,3.87,8996,412
 Skylarking,XTC,27 October 1986,3.86,8714,413
 Ironman,Ghostface Killah,29 October 1996,3.89,5300,414
-Ladies and Gentlemen We Are Floating in Space,Spiritualized,16 June 1997,3.82,16066,415
+Ladies and Gentlemen We Are Floating in Space,Spiritualized®,16 June 1997,3.82,16066,415
 Supreme Clientele,Ghostface Killah,8 February 2000,3.88,6715,416
 At the Heart of Winter,Immortal,28 February 1999,3.88,5578,417
 Arise,Sepultura,20 March 1991,3.88,6254,418
@@ -429,7 +429,7 @@ You Are All Diseased,George Carlin,14 May 1999,3.93,325,427
 Anthology 2,The Beatles,18 March 1996,3.92,2283,428
 Requiem,Wiener Philharmoniker,1987,3.92,922,429
 Ace of Spades,Motörhead,8 November 1980,3.85,8934,430
-The Good Son,Nick Cave ,16 April 1990,3.87,7465,431
+The Good Son,Nick Cave &amp; The Bad Seeds,16 April 1990,3.87,7465,431
 Crimson,Edge of Sanity,2 April 1996,3.85,5076,432
 &quot;Gift&quot; at Sogetsu Hall,青葉市子 ,3 April 2020,3.93,991,433
 The Shape of Punk to Come,Refused,February 1998,3.84,9733,434
@@ -441,7 +441,7 @@ Songs From the Big Chair,Tears for Fears,1 February 1985,3.86,8995,439
 The Cold Vein,Cannibal Ox,15 May 2001,3.86,8034,440
 Glassworks,Philip Glass,March 1982,3.89,5409,441
 Mulholland Dr.,Angelo Badalamenti,9 October 2001,3.93,1293,442
-The G.A.T...,Mach,28 September 2017,3.89,1427,443
+The G.A.T...,Mach-Hommy,28 September 2017,3.89,1427,443
 XXX,Danny Brown,15 August 2011,3.82,15207,444
 Anthology,John Lennon,2 November 1998,3.93,372,445
 Bir Pesimistin Gözyaşları,Sagopa Kajmer,2003,3.88,380,446
@@ -461,7 +461,7 @@ One From the Vault,Grateful Dead,15 April 1991,3.95,317,459
 Music for 18 Musicians,Grand Valley State University New Music Ensemble,16 October 2007,3.91,505,460
 Symphonie No. 5,Wiener Philharmoniker,20 June 1988,3.94,335,461
 Times of Grace,Neurosis,4 May 1999,3.88,4724,462
-The Main Ingredient,Pete Rock ,8 November 1994,3.89,2447,463
+The Main Ingredient,Pete Rock &amp; C.L. Smooth,8 November 1994,3.89,2447,463
 Minecraft: Volume Beta,C418,9 November 2013,3.90,2078,464
 Permanent Waves,Rush,14 January 1980,3.85,7937,465
 For Your Pleasure,Roxy Music,23 March 1973,3.86,8062,466
@@ -482,7 +482,7 @@ Recorded Live,Ten Years After,July 1973,3.92,587,480
 Ascension [Edition II],John Coltrane,1966,3.90,579,481
 Nespithe,Demilich,8 February 1993,3.87,4592,482
 First Meditations (For Quartet),John Coltrane,December 1977,3.92,787,483
-Live at Luther College,Dave Matthews ,19 January 1999,3.93,386,484
+Live at Luther College,Dave Matthews &amp; Tim Reynolds,19 January 1999,3.93,386,484
 Epicus Doomicus Metallicus,Candlemass,10 June 1986,3.86,7093,485
 Fear of a Black Planet,Public Enemy,10 April 1990,3.85,7192,486
 Rock of Ages,The Band,15 August 1972,3.92,975,487
@@ -490,14 +490,14 @@ In Person at the Whisky a Go Go,Otis Redding,October 1968,3.91,445,488
 The Stooges,The Stooges,5 August 1969,3.83,13439,489
 Oceanic,Isis,16 September 2002,3.85,7224,490
 Apostrophe (&#39;),Frank Zappa,22 March 1974,3.85,8829,491
-The Blueprint,Jay,11 September 2001,3.84,9955,492
+The Blueprint,Jay-Z,11 September 2001,3.84,9955,492
 The Royal Scam,Steely Dan,May 1976,3.88,4754,493
 Let It Be... Naked,The Beatles,17 November 2003,3.89,2908,494
 Live at Benaroya Hall,Pearl Jam,27 July 2004,3.91,701,495
 Xenogears,光田康典 ,1 March 1998,3.88,421,496
 Piece of Mind,Iron Maiden,16 May 1983,3.82,11842,497
 Walter Carlos&#39; Clockwork Orange,Wendy Carlos,1972,3.92,608,498
-In Concert,Derek ,March 1973,3.92,585,499
+In Concert,Derek &amp; The Dominos,March 1973,3.92,585,499
 LISA,Widdly 2 Diddly,29 October 2014,3.90,625,500
 Blues for the Red Sun,Kyuss,30 June 1992,3.85,8528,501
 Disco Elysium,British Sea Power,23 December 2019,3.88,677,502
@@ -509,13 +509,13 @@ Cornell 1964,Charles Mingus Sextet with Eric Dolphy,29 June 2007,3.92,457,506
 Nursery Cryme,Genesis,12 November 1971,3.85,8467,508
 勝訴ストリップ (Shōso strip),椎名林檎 ,31 March 2000,3.87,3531,509
 Cowboy Bebop Blue,Seatbelts,1 May 1999,3.91,988,510
-R4™ / Ridge Racer Type 4 / Direct Audio,,27 January 1999,3.92,401,511
+R4™ / Ridge Racer Type 4 / Direct Audio,*Namco Consumer Software Sound Team,27 January 1999,3.92,401,511
 Talking Heads: 77,Talking Heads,16 September 1977,3.80,17370,512
 A I A: Alien Observer,Grouper,11 April 2011,3.85,8427,513
-Sinatra at the Sands,Sinatra With Count Basie ,20 August 1966,3.92,581,514
+Sinatra at the Sands,Sinatra With Count Basie &amp; The Orchestra &amp; Quincy Jones,20 August 1966,3.92,581,514
 Souls at Zero,Neurosis,19 May 1992,3.87,3997,515
 Jet Set Radio Future (ジェットセットラジオフューチャー),長沼英樹 ,20 March 2002,3.90,993,516
-If You&#39;re Feeling Sinister: Live at The Barbican,Belle ,5 December 2005,3.91,543,517
+If You&#39;re Feeling Sinister: Live at The Barbican,Belle &amp; Sebastian,5 December 2005,3.91,543,517
 Keeper of the Seven Keys Part II,Helloween,29 August 1988,3.83,4679,518
 Juju,Wayne Shorter,June 1965,3.89,2629,519
 Merriweather Post Pavilion,Animal Collective,20 January 2009,3.72,27717,520
@@ -528,7 +528,7 @@ Divers,Joanna Newsom,23 October 2015,3.85,6650,526
 Game Theory,The Roots,29 August 2006,3.87,4552,527
 We Insist! Max Roach&#39;s Freedom Now Suite,Max Roach,January 1961,3.88,2973,528
 Anthology 3,The Beatles,28 October 1996,3.89,2119,529
-Requiem; Lontano; Continuum,hr,1968,3.89,717,530
+Requiem; Lontano; Continuum,hr-Sinfonieorchester,1968,3.89,717,530
 Long Season &#39;96~7 96.12.26 Akasaka Blitz,Fishmans,29 June 2016,3.92,446,531
 Run the Jewels 2,Run the Jewels,27 October 2014,3.79,16796,532
 Pink,Boris,18 November 2005,3.82,11869,533
@@ -554,7 +554,7 @@ The Forever Changes Concert,Love,9 September 2003,3.90,352,552
 Can&#39;t Buy a Thrill,Steely Dan,October 1972,3.85,7419,553
 Brilliant Corners,Thelonious Monk,April 1957,3.87,5235,554
 Abigail,King Diamond,15 June 1987,3.85,4281,555
-Jesus Christ Superstar,Andrew Lloyd Webber ,1973,3.89,614,556
+Jesus Christ Superstar,Andrew Lloyd Webber &amp; Tim Rice,1973,3.89,614,556
 Sleepy Buildings: A Semi Acoustic Evening,The Gathering,26 January 2004,3.90,661,557
 Concerts,Henry Cow,1976,3.89,580,558
 This Nation&#39;s Saving Grace,The Fall,23 September 1985,3.84,7265,559
@@ -571,7 +571,7 @@ The Slider,T. Rex,23 July 1972,3.86,4836,569
 Call Me,Al Green,May 1973,3.88,3037,570
 Young Shakespeare,Neil Young,26 March 2021,3.91,307,571
 Phil Ochs in Concert,Phil Ochs,May 1966,3.92,314,572
-Skeleton Tree,Nick Cave ,9 September 2016,3.83,9264,573
+Skeleton Tree,Nick Cave &amp; The Bad Seeds,9 September 2016,3.83,9264,573
 Graceland,Paul Simon,25 August 1986,3.82,8709,574
 This Heat,This Heat,September 1979,3.84,6719,575
 The Concert for Bangla Desh,Various Artists,20 December 1971,3.90,1041,576
@@ -582,12 +582,12 @@ Sackcloth &#39;n&#39; Ashes,Sixteen Horsepower,6 February 1996,3.86,4636,580
 Clifford Brown and Max Roach,Clifford Brown and Max Roach,December 1954,3.88,2107,581
 Magdalene,FKA twigs,8 November 2019,3.80,13639,582
 In absentia,Porcupine Tree,24 September 2002,3.81,11150,583
-Mecca and the Soul Brother,Pete Rock ,9 June 1992,3.85,3746,584
-"If You Want Blood, You&#39;ve Got It",AC,21 November 1978,3.85,3076,585
+Mecca and the Soul Brother,Pete Rock &amp; C.L. Smooth,9 June 1992,3.85,3746,584
+"If You Want Blood, You&#39;ve Got It",AC/DC,21 November 1978,3.85,3076,585
 Bloom,Beach House,15 May 2012,3.77,17837,586
 The Head on the Door,The Cure,13 August 1985,3.82,11916,587
 Hollow Knight,Christopher Larkin,10 February 2017,3.89,891,588
-Bookends,Simon ,3 April 1968,3.84,7312,589
+Bookends,Simon &amp; Garfunkel,3 April 1968,3.84,7312,589
 Max &amp; Match,이달의 소녀 오드아이써클 ,31 October 2017,3.83,3642,590
 Over the Garden Wall,The Blasting Company,21 July 2016,3.89,878,591
 Operation: Mindcrime,Queensrÿche,3 May 1988,3.79,6309,592
@@ -602,7 +602,7 @@ Liege &amp; Lief,Fairport Convention,December 1969,3.86,4109,600
 The IVth Crusade,Bolt Thrower,October 1992,3.86,2981,601
 Live in Seattle,John Coltrane Featuring Pharoah Sanders,1971,3.90,571,602
 Universal,Anathema,23 September 2013,3.88,400,603
-Didn&#39;t It Rain,Songs,5 March 2002,3.86,2962,604
+Didn&#39;t It Rain,Songs: Ohia,5 March 2002,3.86,2962,604
 Santana III,Santana,September 1971,3.88,2803,605
 Lust for Life,Iggy Pop,9 September 1977,3.82,10193,606
 "At the &quot;Golden Circle&quot; Stockholm, Volume One",The Ornette Coleman Trio,February 1966,3.90,724,607
@@ -617,7 +617,7 @@ Daytona,Pusha T,25 May 2018,3.76,19033,615
 American III: Solitary Man,Johnny Cash,17 October 2000,3.86,3567,616
 Aretha Now,Aretha Franklin,14 June 1968,3.88,1804,617
 Smokin&#39; at the Half Note,Wynton Kelly,November 1965,3.89,611,618
-Songs About Leaving,Carissa,6 August 2002,3.83,6865,619
+Songs About Leaving,Carissa&#39;s Wierd,6 August 2002,3.83,6865,619
 Solid Air,John Martyn,February 1973,3.86,3703,620
 Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them,Bruno Pernadas,23 September 2016,3.87,3375,621
 A divina comédia ou ando meio desligado,Mutantes,March 1970,3.87,2910,622
@@ -656,7 +656,7 @@ The Elder Scrolls V: Skyrim,Jeremy Soule,11 November 2011,3.85,1522,654
 "Everything, Everything",Underworld,4 September 2000,3.87,970,655
 Severed Survival,Autopsy,24 April 1989,3.84,3406,656
 Here in After,Immolation,13 February 1996,3.85,2425,657
-Live Seeds,Nick Cave ,6 September 1993,3.88,912,658
+Live Seeds,Nick Cave &amp; The Bad Seeds,6 September 1993,3.88,912,658
 "For Emma, Forever Ago",Bon Iver,8 July 2007,3.75,17416,659
 Symphonie Nr. 7,Berliner Philharmoniker,1962,3.88,400,660
 Revés / Yosoy,Café Tacvba,20 July 1999,3.86,844,661
@@ -680,14 +680,14 @@ Transient Random-Noise Bursts With Announcements,Stereolab,10 August 1993,3.82,7
 Horse Rotorvator,Coil,1986,3.82,6846,679
 Live Wire / Blues Power,Albert King,1968,3.90,351,680
 Meat Is Murder,The Smiths,11 February 1985,3.75,18332,681
-Bandana,Freddie Gibbs ,28 June 2019,3.78,14105,682
+Bandana,Freddie Gibbs &amp; Madlib,28 June 2019,3.78,14105,682
 No More Color,Coroner,18 September 1989,3.85,3049,683
 Stand in the Fire,Warren Zevon,26 December 1980,3.89,462,684
 Live at Pep&#39;s,Yusef Lateef,January 1965,3.90,315,685
 You Fail Me,Converge,20 September 2004,3.81,5675,686
 Tilt,Scott Walker,8 May 1995,3.81,5145,687
 Effigy of the Forgotten,Suffocation,October 1991,3.83,3636,688
-NEU!,NEU,1972,3.79,11934,689
+NEU!,NEU!,1972,3.79,11934,689
 Storia di un impiegato,Fabrizio De André,December 1973,3.87,1305,690
 ゼルダの伝説 ～風のタクト～ (The Legend of Zelda: The Wind Waker),永田権太 ,19 March 2003,3.88,564,691
 Starsailor,Tim Buckley,2 November 1970,3.80,7222,692
@@ -711,7 +711,7 @@ Live Scenes From New York,Dream Theater,11 September 2001,3.83,1259,709
 Cartola,Cartola,1974,3.88,879,710
 Alligator,The National,12 April 2005,3.79,9585,711
 Live,Built to Spill,18 April 2000,3.87,999,712
-"Crosby, Stills &amp; Nash",Crosby,29 May 1969,3.83,4961,713
+"Crosby, Stills &amp; Nash","Crosby, Stills &amp; Nash",29 May 1969,3.83,4961,713
 Black Future,Vektor,17 November 2009,3.83,4224,714
 Stormcock,Roy Harper,May 1971,3.84,3257,715
 Live,Colosseum,1971,3.87,549,716
@@ -724,7 +724,7 @@ Dirty Mind,Prince,8 October 1980,3.82,6318,722
 Not Available,The Residents,October 1978,3.81,5302,723
 Countdown to Ecstasy,Steely Dan,July 1973,3.83,5115,724
 October Rust,Type O Negative,20 August 1996,3.82,4730,725
-Germfree Adolescents,X,10 November 1978,3.84,3389,726
+Germfree Adolescents,X-Ray Spex,10 November 1978,3.84,3389,726
 What Color Is Love,Terry Callier,August 1972,3.86,2072,727
 The Inflated Tear,Roland Kirk,15 June 1968,3.86,1819,728
 String Quartets Nos. 1-3,The Tale Quartet,February 1990,3.86,591,729
@@ -742,7 +742,7 @@ Ambient 1: Music for Airports,Brian Eno,March 1978,3.76,14875,740
 Q: Are We Not Men? A: We Are Devo!,Devo,28 August 1978,3.78,11141,741
 Darkness Descends,Dark Angel,17 November 1986,3.83,3132,742
 Black Dots,Bad Brains,1 October 1996,3.87,984,743
-Live and Let Die,Kool G. Rap ,24 November 1992,3.83,1604,744
+Live and Let Die,Kool G. Rap &amp; D.J. Polo,24 November 1992,3.83,1604,744
 Madvillainy Instrumentals,Madvillain,21 August 2004,3.85,681,745
 "あらためまして、はじめまして、ミドリです。 (Aratamemashite, hajimemashite, Midori desu.)",ミドリ ,14 May 2008,3.80,8018,746
 #1 Record,Big Star,April 1972,3.80,7387,747
@@ -770,7 +770,7 @@ Tri repetae,Autechre,6 November 1995,3.79,9719,768
 Santana,Santana,August 1969,3.83,4337,769
 The Assassination of Jesse James by the Coward Robert Ford,Nick Cave and Warren Ellis,5 November 2007,3.86,1149,770
 Elephant,The White Stripes,1 April 2003,3.74,17203,771
-The Boatman&#39;s Call,Nick Cave ,4 March 1997,3.80,7793,772
+The Boatman&#39;s Call,Nick Cave &amp; The Bad Seeds,4 March 1997,3.80,7793,772
 Stakes Is High,De La Soul,2 July 1996,3.83,2133,773
 Streetcleaner,Godflesh,13 November 1989,3.79,6521,774
 天使のたまご 音楽編 / 水に棲む (Tenshi no tamago ongaku hen / Mizu ni sumu),菅野由弘 ,21 December 1985,3.88,356,775
@@ -794,7 +794,7 @@ Boxer Live in Brussels,The National,21 April 2018,3.88,329,792
 My Aim Is True,Elvis Costello,22 July 1977,3.79,7998,793
 All We Love We Leave Behind,Converge,9 October 2012,3.79,6142,794
 You Got My Mind Messed Up,James Carr,March 1967,3.84,2239,795
-"György Ligeti Edition 3: Works for Piano - Études, Musica ricercata",Pierre,28 January 1997,3.86,503,796
+"György Ligeti Edition 3: Works for Piano - Études, Musica ricercata",Pierre-Laurent Aimard,28 January 1997,3.86,503,796
 Adiós Nonino,Astor Piazzolla y su Quinteto,1969,3.88,446,797
 Terminal Redux,Vektor,6 May 2016,3.80,5222,798
 Younger Than Yesterday,The Byrds,6 February 1967,3.81,5227,799
@@ -802,8 +802,8 @@ This Is the Sea,The Waterboys,16 September 1985,3.83,2530,800
 Crystal Logic,Manilla Road,December 1983,3.81,2255,801
 Fear of a Blank Planet,Porcupine Tree,16 April 2007,3.77,8611,802
 Black Antlers,Coil,June 2004,3.82,2500,803
-Ghost Tropic,Songs,13 November 2000,3.83,2238,804
-Live From KCRW,Nick Cave ,29 November 2013,3.86,697,805
+Ghost Tropic,Songs: Ohia,13 November 2000,3.83,2238,804
+Live From KCRW,Nick Cave &amp; The Bad Seeds,29 November 2013,3.86,697,805
 From the Lions Mouth,The Sound,November 1981,3.82,4276,806
 Somewhere Along the Highway,Cult of Luna,24 April 2006,3.81,3801,807
 Over the Edge,Wipers,1983,3.82,3410,808
@@ -846,7 +846,7 @@ Exercises in Futility,Mgła,4 September 2015,3.80,5590,844
 The Unseen,Quasimoto,13 June 2000,3.78,7318,845
 Meat Puppets II,Meat Puppets,April 1984,3.80,6173,846
 Tindersticks [II],Tindersticks,3 April 1995,3.82,2920,847
-Hoodoo Man Blues,Junior Wells,November 1965,3.84,1810,848
+Hoodoo Man Blues,Junior Wells&#39; Chicago Blues Band,November 1965,3.84,1810,848
 The Omen,Jerry Goldsmith,1976,3.87,297,849
 Ricochet,Tangerine Dream,December 1975,3.84,1774,850
 Rory Gallagher,Rory Gallagher,23 May 1971,3.84,1457,851
@@ -854,15 +854,15 @@ Rory Gallagher,Rory Gallagher,23 May 1971,3.84,1457,851
 Fallout,Mark Morgan,1997,3.84,907,853
 Red Burns,Standing on the Corner,11 September 2017,3.81,3596,854
 The Immortal Otis Redding,Otis Redding,15 June 1968,3.85,903,855
-HBO (Haitian Body Odor),Mach,17 August 2016,3.84,949,856
+HBO (Haitian Body Odor),Mach-Hommy,17 August 2016,3.84,949,856
 OMORI,OMORI,25 December 2020,3.80,377,857
 Grey Area,Little Simz,1 March 2019,3.77,11371,858
 Back to Black,Amy Winehouse,27 October 2006,3.77,9861,859
-I See a Darkness,Bonnie ,19 January 1999,3.78,7991,860
+I See a Darkness,Bonnie &#39;Prince&#39; Billy,19 January 1999,3.78,7991,860
 4eva Is a Mighty Long Time,Big K.R.I.T.,27 October 2017,3.79,6515,861
 Octopus,Gentle Giant,16 November 1972,3.79,6032,862
 Blessed Are the Sick,Morbid Angel,May 1991,3.80,4509,863
-4 Way Street,Crosby,7 April 1971,3.84,1388,864
+4 Way Street,"Crosby, Stills, Nash &amp; Young",7 April 1971,3.84,1388,864
 2012 - 2017,Against All Logic,17 February 2018,3.76,13044,865
 Dead Magic,Anna von Hausswolff,2 March 2018,3.78,8902,866
 Is This Desire?,PJ Harvey,28 September 1998,3.81,5498,867
@@ -902,7 +902,7 @@ Nowa Aleksandria,Siekiera,1986,3.80,4267,900
 A Beginner&#39;s Mind,Sufjan Stevens,24 September 2021,3.81,4600,901
 Storia di un minuto,Premiata Forneria Marconi,January 1972,3.81,2926,902
 Three Cheers for Disappointment,The Arrogant Sons of Bitches,17 January 2006,3.80,1908,903
-Secos &amp; Molhados,Secos ,August 1973,3.82,1813,904
+Secos &amp; Molhados,Secos &amp; Molhados,August 1973,3.82,1813,904
 Straight Life,Freddie Hubbard,January 1971,3.83,1463,905
 The Deluge,Manilla Road,25 February 1986,3.81,1266,906
 El derecho de vivir en paz,Víctor Jara,1971,3.84,1136,907
@@ -923,7 +923,7 @@ Songs From the Wood,Jethro Tull,11 February 1977,3.80,4126,921
 Persecution Mania,Sodom,1 December 1987,3.80,3089,922
 Metal Church,Metal Church,July 1984,3.80,2662,923
 GBAポケモン ルビー&amp;サファイア ミュージック・スーパーコンプリート (GBA Pokémon Ruby &amp; Sapphire Music Super Complete),増田順一 ,26 April 2003,3.85,455,924
-I&#39;m in Your Mind Fuzz,King Gizzard ,31 October 2014,3.78,7722,925
+I&#39;m in Your Mind Fuzz,King Gizzard &amp; the Lizard Wizard,31 October 2014,3.78,7722,925
 Ladies of the Canyon,Joni Mitchell,April 1970,3.81,4085,926
 Excitable Boy,Warren Zevon,24 January 1978,3.81,2644,927
 Dimension Hatröss,Voivod,29 June 1988,3.79,3630,928
@@ -969,14 +969,14 @@ Frank Sinatra Sings for Only the Lonely,Frank Sinatra,8 September 1958,3.80,1910
 Train of Thought,Reflection Eternal,17 October 2000,3.80,2479,968
 Miles of Aisles,Joni Mitchell,November 1974,3.84,730,969
 Hard Again,Muddy Waters,10 January 1977,3.82,1586,970
-Live From Japan,death,6 September 2019,3.83,635,971
+Live From Japan,death&#39;s dynamic shroud,6 September 2019,3.83,635,971
 Odelay,Beck,18 June 1996,3.73,14892,972
 Roman Candle,Elliott Smith,14 July 1994,3.78,7381,973
 Demons and Wizards,Uriah Heep,19 May 1972,3.79,3560,974
 Las últimas composiciones de Violeta Parra,Violeta Parra,November 1966,3.82,942,975
 Préludes · Volume 1,Arturo Benedetti Michelangeli,1978,3.83,797,976
-The Abattoir Blues Tour,Nick Cave ,29 January 2007,3.85,358,977
-Halo 3,Martin O,20 November 2007,3.84,365,978
+The Abattoir Blues Tour,Nick Cave &amp; The Bad Seeds,29 January 2007,3.85,358,977
+Halo 3,Martin O&#39;Donnell &amp; Michael Salvatori,20 November 2007,3.84,365,978
 Niggas on the Moon: The Powers That B Disc 1,Death Grips,8 June 2014,3.72,13054,979
 10 Years Gone,Deafheaven,4 December 2020,3.82,537,980
 Thunder Perfect Mind,Current 93,28 July 1992,3.78,4690,981
@@ -1000,16 +1000,16 @@ Screams of Anguish,Brutality,21 June 1993,3.81,1343,998
 Libertango,Astor Piazzolla,1974,3.83,962,999
 Moon Safari,AIR,27 January 1998,3.72,15127,1000
 Open the Gates,Manilla Road,1985,3.79,1318,1001
-16 Lovers Lane,The Go,August 1988,3.79,4022,1002
+16 Lovers Lane,The Go-Betweens,August 1988,3.79,4022,1002
 Time,ELO,2 July 1981,3.78,3793,1003
 Ella Fitzgerald Sings the Irving Berlin Song Book,Ella Fitzgerald,1958,3.84,368,1004
-Munly &amp; The Lee Lewis Harlots,Munly ,12 October 2004,3.81,1407,1005
+Munly &amp; The Lee Lewis Harlots,Munly &amp; The Lee Lewis Harlots,12 October 2004,3.81,1407,1005
 Natty Dread,Bob Marley,25 October 1974,3.80,3231,1006
 Punishment for Decadence,Coroner,1 August 1988,3.80,2426,1007
 Celeste,Lena Raine,25 January 2018,3.81,1472,1008
 Achtung Baby,U2,19 November 1991,3.72,10430,1009
 Indent,Cecil Taylor,August 1973,3.82,340,1010
-Cheap Thrills,Big Brother ,12 August 1968,3.78,4097,1011
+Cheap Thrills,Big Brother &amp; The Holding Company,12 August 1968,3.78,4097,1011
 The Eye of Every Storm,Neurosis,29 June 2004,3.77,3861,1012
 Live in Concert With the Edmonton Symphony Orchestra,Procol Harum,April 1972,3.82,622,1013
 Caesar Demos,Ween,11 August 2011,3.82,513,1014
@@ -1050,7 +1050,7 @@ Coma of Souls,Kreator,19 October 1990,3.79,2984,1048
 La voce del padrone,Franco Battiato,21 September 1981,3.79,2512,1049
 Turn of the Cards,Renaissance,May 1974,3.81,1534,1050
 Somewhere Out in Space,Gamma Ray,25 August 1997,3.78,1190,1051
-Bridges,Gil Scott,December 1977,3.81,1237,1052
+Bridges,Gil Scott-Heron &amp; Brian Jackson,December 1977,3.81,1237,1052
 Caught Up,Millie Jackson,October 1974,3.82,853,1053
 Goat,The Jesus Lizard,15 March 1991,3.76,7428,1054
 Nighttime Birds,The Gathering,15 May 1997,3.80,1852,1055
@@ -1058,22 +1058,22 @@ Purple Mountains,Purple Mountains,12 July 2019,3.77,6483,1056
 Hats,The Blue Nile,16 October 1989,3.78,3893,1057
 Midtown 120 Blues,DJ Sprinkles,9 August 2008,3.78,3421,1058
 The Black Halo,Kamelot,14 March 2005,3.74,2404,1059
-Funky Kingston,Toots ,1973,3.81,1491,1060
+Funky Kingston,Toots &amp; The Maytals,1973,3.81,1491,1060
 Persepolis,Groupe de Recherches Musicales de la RTF,1971,3.78,1327,1061
 Originals,Prince,7 June 2019,3.82,1145,1062
 "&#39;Live&#39; at the Apollo, Volume II",James Brown,August 1968,3.83,465,1063
-Paid In Full,Eric B. ,7 July 1987,3.76,7049,1064
-Dig Me Out,Sleater,8 April 1997,3.77,5658,1065
+Paid In Full,Eric B. &amp; Rakim,7 July 1987,3.76,7049,1064
+Dig Me Out,Sleater-Kinney,8 April 1997,3.77,5658,1065
 Texas Flood,Stevie Ray Vaughan and Double Trouble,13 June 1983,3.78,3760,1066
 Sail Away,Randy Newman,May 1972,3.78,2818,1067
 The Thin Red Line,Hans Zimmer,12 January 1999,3.81,533,1068
 Super Metroid: Sound in Action,田中宏和 ,22 June 1994,3.81,328,1069
-Call Me If You Get Lost,Tyler,25 June 2021,3.71,17197,1070
+Call Me If You Get Lost,"Tyler, the Creator",25 June 2021,3.71,17197,1070
 Ceres &amp; Calypso in the Deep Time,Candy Claws,25 June 2013,3.75,9519,1071
 Perdition City,Ulver,26 March 2000,3.74,7573,1072
 Edge of Thorns,Savatage,2 April 1993,3.79,1451,1073
 Chaos Is Me,Orchid,21 June 1999,3.77,6106,1074
-Armed Forces,Elvis Costello ,5 January 1979,3.77,4956,1075
+Armed Forces,Elvis Costello &amp; The Attractions,5 January 1979,3.77,4956,1075
 Enemy of the Sun,Neurosis,17 August 1993,3.78,3056,1076
 Live,Genesis,July 1973,3.81,2094,1077
 Afrodisiac,Fela Kuti,1973,3.81,1540,1078
@@ -1097,9 +1097,9 @@ Affinità-divergenze fra il compagno Togliatti e noi: Del conseguimento della ma
 I Put a Spell on You,Nina Simone,March 1965,3.80,2400,1096
 Miłość w czasach popkultury,Myslovitz,25 October 1999,3.80,1400,1097
 A dança da solidão,Paulinho da Viola,1972,3.83,343,1098
-Insignificance,Jim O,19 November 2001,3.78,3805,1099
+Insignificance,Jim O&#39;Rourke,19 November 2001,3.78,3805,1099
 Draconian Times,Paradise Lost,12 June 1995,3.77,3231,1100
-For the First Time,Black Country,5 February 2021,3.70,16035,1101
+For the First Time,"Black Country, New Road",5 February 2021,3.70,16035,1101
 White Blood Cells,The White Stripes,3 July 2001,3.72,12981,1102
 Black Hand Inn,Running Wild,24 March 1994,3.79,1026,1103
 Iannis Xenakis 2: La légende d&#39;Eer,Electronic Studio Westdeutscher Rundfunk Köln,1995,3.78,924,1104
@@ -1174,7 +1174,7 @@ Showcase,Black Uhuru,1979,3.81,838,1172
 Grotesque (After the Gramme),The Fall,17 November 1980,3.78,3650,1173
 Köhntarkösz,Magma,10 September 1974,3.78,2231,1174
 A mulher do fim do mundo,Elza,1 October 2015,3.78,1808,1175
-Rāg Madhuvantī / Rāg Miśra Tilang,Shivkumar Sharma ,1987,3.82,533,1176
+Rāg Madhuvantī / Rāg Miśra Tilang,Shivkumar Sharma &amp; Zakir Hussain,1987,3.82,533,1176
 Kingdom Hearts,下村陽子 ,27 March 2002,3.80,455,1177
 "Synecdoche, New York",Jon Brion,25 November 2008,3.82,425,1178
 Will the Circle Be Unbroken,The Nitty Gritty Dirt Band,November 1972,3.79,1270,1179
@@ -1182,7 +1182,7 @@ That One Night: Live in Buenos Aires,Megadeth,4 September 2007,3.79,358,1180
 Norman Fucking Rockwell!,Lana Del Rey,30 August 2019,3.69,15345,1181
 "The Wild, the Innocent &amp; the E Street Shuffle",Bruce Springsteen,5 November 1973,3.76,5201,1182
 Pleased to Meet Me,The Replacements,27 April 1987,3.77,4166,1183
-The B-52&#39;s,The B,6 July 1979,3.75,6293,1184
+The B-52&#39;s,The B-52&#39;s,6 July 1979,3.75,6293,1184
 Diamond Life,Sade,16 July 1984,3.77,4869,1185
 Awakening the World,Lost Horizon,8 May 2001,3.76,950,1186
 Omega,Enrique Morente,December 1996,3.79,866,1187
@@ -1192,8 +1192,8 @@ Yayayi,Yayayi,30 September 2013,3.77,1539,1190
 The Last of the Mohicans,Trevor Jones,6 October 1992,3.82,322,1191
 Joy as an Act of Resistance.,Idles,31 August 2018,3.70,12368,1192
 Red Headed Stranger,Willie Nelson,May 1975,3.78,2716,1193
-Live,AC,27 October 1992,3.77,2266,1194
-Ella and Louis Again,Ella Fitzgerald ,November 1957,3.81,513,1195
+Live,AC/DC,27 October 1992,3.77,2266,1194
+Ella and Louis Again,Ella Fitzgerald &amp; Louis Armstrong,November 1957,3.81,513,1195
 Sylva,Snarky Puppy,17 April 2015,3.80,474,1196
 Suede,Suede,29 March 1993,3.75,5284,1197
 Parachute,Pretty Things,June 1970,3.78,1976,1198
@@ -1202,7 +1202,7 @@ The Straight Story,Angelo Badalamenti,12 October 1999,3.81,535,1200
 Fome,Los Tres,27 June 1997,3.81,469,1201
 "The Wild, the Innocent &amp; the E Street Shuffle",Bruce Springsteen,5 November 1973,3.76,5201,1202
 Pleased to Meet Me,The Replacements,27 April 1987,3.77,4166,1203
-The B-52&#39;s,The B,6 July 1979,3.75,6293,1204
+The B-52&#39;s,The B-52&#39;s,6 July 1979,3.75,6293,1204
 Diamond Life,Sade,16 July 1984,3.77,4869,1205
 Awakening the World,Lost Horizon,8 May 2001,3.76,950,1206
 Omega,Enrique Morente,December 1996,3.79,866,1207
@@ -1212,8 +1212,8 @@ Yayayi,Yayayi,30 September 2013,3.77,1539,1210
 The Last of the Mohicans,Trevor Jones,6 October 1992,3.82,322,1211
 Joy as an Act of Resistance.,Idles,31 August 2018,3.70,12368,1212
 Red Headed Stranger,Willie Nelson,May 1975,3.78,2716,1213
-Live,AC,27 October 1992,3.77,2266,1214
-Ella and Louis Again,Ella Fitzgerald ,November 1957,3.81,513,1215
+Live,AC/DC,27 October 1992,3.77,2266,1214
+Ella and Louis Again,Ella Fitzgerald &amp; Louis Armstrong,November 1957,3.81,513,1215
 Sylva,Snarky Puppy,17 April 2015,3.80,474,1216
 Suede,Suede,29 March 1993,3.75,5284,1217
 Parachute,Pretty Things,June 1970,3.78,1976,1218
@@ -1251,7 +1251,7 @@ Los Angeles,X,April 1980,3.75,5118,1249
 First and Last and Always,The Sisters of Mercy,11 March 1985,3.76,4361,1250
 Introspective,Pet Shop Boys,10 October 1988,3.76,3328,1251
 Below the Lights,Enslaved,28 April 2003,3.75,2953,1252
-Imperial Bedroom,Elvis Costello ,2 July 1982,3.76,3292,1253
+Imperial Bedroom,Elvis Costello &amp; The Attractions,2 July 1982,3.76,3292,1253
 Arbeit macht frei,Area,1973,3.77,2511,1254
 The Gathering,Testament,28 June 1999,3.76,2575,1255
 Love,The Beatles,26 November 2006,3.75,2321,1256
@@ -1264,7 +1264,7 @@ Getting Ready...,Freddie King,April 1971,3.81,449,1262
 Plays the Music of Twin Peaks,Xiu Xiu,16 April 2016,3.75,6502,1263
 Naturally,J.J. Cale,25 October 1971,3.78,1919,1264
 The Colours of Chloë,Eberhard Weber,April 1974,3.78,1581,1265
-Vacation,Bomb the Music Industry,26 July 2011,3.76,1598,1266
+Vacation,Bomb the Music Industry!,26 July 2011,3.76,1598,1266
 Cantofabule,Phoenix,1975,3.80,489,1267
 "Babylon by Gus, Vol 1: O ano do macaco",Black Alien,2004,3.81,369,1268
 Killers,Iron Maiden,2 February 1981,3.71,10978,1269
@@ -1281,7 +1281,7 @@ At Budokan,Cheap Trick,February 1979,3.77,2107,1279
 Piñata Beats,Madlib,3 June 2014,3.78,745,1280
 Sonic Adventure &quot;Digi-Log Conversation&quot;,瀬上純 ,20 January 1999,3.80,355,1281
 Twin Peaks Music: Season Two Music and More,Angelo Badalamenti,30 October 2007,3.81,714,1282
-Gratitude,Earth,11 November 1975,3.80,530,1283
+Gratitude,"Earth, Wind &amp; Fire",11 November 1975,3.80,530,1283
 The Legend of Zelda: 25th Anniversary Special Orchestra CD,近藤浩治 ,23 November 2011,3.78,512,1284
 Winobranie,The Zbigniew Namysłowski Quintet,1973,3.80,489,1285
 Leapin&#39; and Lopin&#39;,Sonny Clark,April 1962,3.81,453,1286
@@ -1293,7 +1293,7 @@ Internal Affairs,Pharoahe Monch,19 October 1999,3.77,1867,1291
 Кино (Чёрный альбом),Кино ,December 1990,3.78,1834,1292
 Back to Times of Splendor,Disillusion,5 April 2004,3.74,1762,1293
 N° 4,Jacques Brel,November 1959,3.79,863,1294
-Hound Dog Taylor and the Houserockers,Hound Dog Taylor ,1971,3.79,798,1295
+Hound Dog Taylor and the Houserockers,Hound Dog Taylor &amp; The Houserockers,1971,3.79,798,1295
 OFF,Alias Conrad Coldwood,2008,3.77,329,1296
 No Love Deep Web,Death Grips,1 October 2012,3.65,21546,1297
 Elegant Gypsy,Al Di Meola,April 1977,3.77,2052,1298
@@ -1316,12 +1316,12 @@ Spokojnie,Kult,December 1988,3.79,1310,1314
 The Shadow Cabinet,Wuthering Heights,27 October 2006,3.74,544,1315
 Body and Soul,Billie Holiday,1957,3.79,492,1316
 American Beauty,Grateful Dead,1 November 1970,3.72,7252,1317
-Black Earth,Bohren ,28 October 2002,3.75,4590,1318
+Black Earth,Bohren &amp; der Club of Gore,28 October 2002,3.75,4590,1318
 La planète sauvage,Alain Goraguer,1973,3.78,1816,1319
 Velvet Goldmine,Various Artists,3 November 1998,3.80,544,1320
 Les espaces acoustiques,Asko Ensemble,January 2005,3.79,668,1321
 Fleetwood Mac,Fleetwood Mac,11 July 1975,3.74,6189,1322
-Fantastic Damage,El,14 May 2002,3.75,3965,1323
+Fantastic Damage,El-P,14 May 2002,3.75,3965,1323
 Lysol,Melvins,1992,3.75,3821,1324
 Vikingligr veldi,Enslaved,22 February 1994,3.75,2680,1325
 Dynamo,Soda Stereo,26 October 1992,3.76,2596,1326
@@ -1331,10 +1331,10 @@ Era uma vez um homem e o seu tempo,Belchior,1979,3.81,340,1329
 Stardew Valley,ConcernedApe,26 February 2016,3.80,390,1330
 Imagine,John Lennon,9 September 1971,3.70,9413,1331
 From Here We Go Sublime,The Field,26 March 2007,3.74,5932,1332
-Shoot Out the Lights,Richard ,April 1982,3.76,1888,1333
+Shoot Out the Lights,Richard &amp; Linda Thompson,April 1982,3.76,1888,1333
 How to Measure a Planet?,The Gathering,9 November 1998,3.76,1942,1334
 MetaL MetaL,Metá Metá,7 November 2012,3.78,1691,1335
-Winter in America,Gil Scott,May 1974,3.77,1429,1336
+Winter in America,Gil Scott-Heron/Brian Jackson,May 1974,3.77,1429,1336
 Soul on Ice,Ras Kass,17 September 1996,3.76,1183,1337
 The Quest,Mal Waldron with Eric Dolphy and Booker Ervin,July 1962,3.79,702,1338
 アンハッピーリフレイン (Unhappy Refrain),Wowaka,18 May 2011,3.77,627,1339
@@ -1348,18 +1348,18 @@ Alien,Strapping Young Lad,March 2005,3.74,2840,1346
 Lance,Niños del Cerro,31 August 2018,3.78,868,1347
 The Witcher 3: Wild Hunt,Marcin Przybyłowicz,11 May 2015,3.78,589,1348
 Völkerball,Rammstein,18 September 2007,3.76,517,1349
-No New York,James Chance ,November 1978,3.75,3716,1350
+No New York,James Chance &amp; The Contortions,November 1978,3.75,3716,1350
 John Barleycorn Must Die,Traffic,July 1970,3.76,3494,1351
 Damn the Torpedoes,Tom Petty and The Heartbreakers,19 October 1979,3.75,3489,1352
 Return to Forever,Chick Corea,September 1972,3.76,3315,1353
 Doc at the Radar Station,Captain Beefheart and The Magic Band,29 September 1980,3.75,3049,1354
 Secret South,16 Horsepower,27 March 2000,3.76,2363,1355
 Phantom Thread,Jonny Greenwood,12 January 2018,3.77,2369,1356
-Siembra,Willie Colón ,1978,3.79,959,1357
+Siembra,Willie Colón &amp; Rubén Blades,1978,3.79,959,1357
 "Solaris, The Mirror, Stalker: Music From Motion Pictures",Эдуард Артемьев ,1999,3.78,498,1358
 A Hard Day&#39;s Night,The Beatles,10 July 1964,3.65,20509,1359
 No Now,Clarence Clarity,2 March 2015,3.72,5993,1360
-The Basement Tapes,Bob Dylan ,26 June 1975,3.74,4662,1361
+The Basement Tapes,Bob Dylan &amp; The Band,26 June 1975,3.74,4662,1361
 Among the Living,Anthrax,22 March 1987,3.72,6841,1362
 undun,The Roots,6 December 2011,3.74,4482,1363
 Vauxhall and I,Morrissey,14 March 1994,3.74,4197,1364
@@ -1382,7 +1382,7 @@ Goldfinger,John Barry,1964,3.79,345,1380
 Autumn Aurora,Drudkh,1 February 2004,3.74,4162,1381
 Behaviour,Pet Shop Boys,22 October 1990,3.75,3738,1382
 Legion,Deicide,9 June 1992,3.74,2902,1383
-Runaway Slave,Showbiz ,22 September 1992,3.77,986,1384
+Runaway Slave,Showbiz &amp; A.G.,22 September 1992,3.77,986,1384
 Ser hümano!!,Tiro de Gracia,August 1997,3.78,367,1385
 Live at the Isle of Wight,Taste,1971,3.81,301,1386
 Walk Among Us,Misfits,March 1982,3.73,6154,1387
@@ -1390,7 +1390,7 @@ Brothers and Sisters,The Allman Brothers Band,September 1973,3.76,2705,1388
 The Social Network,Trent Reznor and Atticus Ross,28 September 2010,3.75,2621,1389
 Valentyne Suite,Colosseum,November 1969,3.76,2069,1390
 Jimmy Carter Syndrome,Jay Munly,January 2002,3.78,992,1391
-Play the Blues,Buddy Guy ,1972,3.80,300,1392
+Play the Blues,Buddy Guy &amp; Junior Wells,1972,3.80,300,1392
 Walk Away Renée / Pretty Ballerina,The Left Banke,February 1967,3.77,1938,1393
 Bossanova,Pixies,13 August 1990,3.70,12328,1394
 Three Friends,Gentle Giant,14 April 1972,3.76,2801,1395
@@ -1399,11 +1399,11 @@ Inventions for Electric Guitar,Manuel Göttsching,1975,3.77,1925,1397
 Enigmatic,Czesław Niemen,19 January 1970,3.77,1281,1398
 Slaughtersun (Crown of the Triarchy),Dawn,7 May 1998,3.76,1214,1399
 Power to the People,Joe Henderson,February 1970,3.80,484,1400
-Vol. 3,Pappo,1972,3.79,499,1401
+Vol. 3,Pappo&#39;s Blues,1972,3.79,499,1401
 Hilarious,Louis C.K.,11 January 2011,3.75,379,1402
 Slide,George Clanton,17 August 2018,3.73,6091,1403
 Hark! The Village Wait,Steeleye Span,June 1970,3.78,937,1404
-Nightingales &amp; Bombers,Manfred Mann,22 August 1975,3.78,877,1405
+Nightingales &amp; Bombers,Manfred Mann&#39;s Earth Band,22 August 1975,3.78,877,1405
 Such Sweet Thunder,Duke Ellington and His Orchestra,1957,3.79,823,1406
 The Marriage of Heaven and Hell: Part One,Virgin Steele,1994,3.74,786,1407
 Dirty,Sonic Youth,21 July 1992,3.70,11447,1408
@@ -1414,15 +1414,15 @@ Orbital [Brown Album],Orbital,24 May 1993,3.75,3523,1412
 Dubnobasswithmyheadman,Underworld,24 January 1994,3.74,4492,1413
 The Sham Mirrors,Arcturus,22 April 2002,3.69,3996,1414
 Every Picture Tells a Story,Rod Stewart,July 1971,3.73,2899,1415
-Bad Timing,Jim O,25 August 1997,3.76,2568,1416
+Bad Timing,Jim O&#39;Rourke,25 August 1997,3.76,2568,1416
 01010101,Portraits of Past,1996,3.76,1615,1417
 Live Killers,Queen,22 June 1979,3.76,1565,1418
-Decoration Day,Drive,17 June 2003,3.76,1135,1419
+Decoration Day,Drive-By Truckers,17 June 2003,3.76,1135,1419
 Happy Bivouac,the pillows,2 December 1999,3.76,1122,1420
 Прыг-скок: Детские песенки,Егор и Опизденевшие ,1990,3.76,1017,1421
 Live at Earls Court,Morrissey,4 April 2005,3.77,645,1422
 Mekanïk Kommandöh,Magma,1989,3.79,354,1423
-Dumpmeister,Mach,2 September 2017,3.78,372,1424
+Dumpmeister,Mach-Hommy,2 September 2017,3.78,372,1424
 Die Lit,Playboi Carti,11 May 2018,3.63,17278,1425
 Sometimes I Wish We Were an Eagle,Bill Callahan,14 April 2009,3.74,3620,1426
 Tons of Sobs,Free,14 March 1969,3.77,1452,1427
@@ -1467,7 +1467,7 @@ Live in Paris (1975),Pharoah Sanders,13 March 2020,3.80,304,1465
 At Action Park,Shellac,24 October 1994,3.71,6801,1466
 Hiding Places,Billy Woods,29 March 2019,3.72,6361,1467
 ワールドイズユアーズ (World Is Yours),Mass of the Fermenting Dregs,21 January 2009,3.74,3691,1468
-Get Happy!!,Elvis Costello ,15 February 1980,3.74,3196,1469
+Get Happy!!,Elvis Costello &amp; The Attractions,15 February 1980,3.74,3196,1469
 となりのトトロ  (Tonari no Totoro),久石譲 ,1 May 1988,3.78,595,1470
 New Gold Dream (81-82-83-84),Simple Minds,1 September 1982,3.74,3251,1471
 Tupelo Honey,Van Morrison,October 1971,3.76,2514,1472
@@ -1538,7 +1538,7 @@ Cowboy Bebop: Knockin&#39; on Heaven&#39;s Door - O.S.T. Future Blues,Seat Belts
 Helvete,Nasum,13 May 2003,3.75,1531,1537
 Reunion,Black Sabbath,19 October 1998,3.75,1321,1538
 West Side Story,Various Artists,October 1961,3.76,622,1539
-Your Funeral ... My Trial,Nick Cave ,3 November 1986,3.72,5766,1540
+Your Funeral ... My Trial,Nick Cave &amp; The Bad Seeds,3 November 1986,3.72,5766,1540
 Love&#39;s Secret Domain,Coil,July 1991,3.73,3731,1541
 Script for a Jester&#39;s Tear,Marillion,14 March 1983,3.73,3214,1542
 Coming Up,Suede,2 September 1996,3.73,3216,1543
@@ -1601,8 +1601,8 @@ Fire Down Under,Riot,9 February 1981,3.74,1390,1599
 Live at Jittery Joe&#39;s,Jeff Mangum,28 August 2001,3.75,1275,1600
 Последний герой,Кино ,1991,3.76,879,1601
 Untitled Unmastered.,Kendrick Lamar,4 March 2016,3.64,19513,1602
-Push the Sky Away,Nick Cave ,18 February 2013,3.71,6969,1603
-Mirror Man,Captain Beefheart ,February 1971,3.73,2638,1604
+Push the Sky Away,Nick Cave &amp; The Bad Seeds,18 February 2013,3.71,6969,1603
+Mirror Man,Captain Beefheart &amp; His Magic Band,February 1971,3.73,2638,1604
 Unchained,Johnny Cash,5 November 1996,3.74,2273,1605
 World Extermination,Insect Warfare,10 September 2007,3.73,2076,1606
 Hosannas From the Basements of Hell,Killing Joke,3 April 2006,3.74,1622,1607
@@ -1614,11 +1614,11 @@ Burnt Weeny Sandwich,The Mothers of Invention,9 February 1970,3.73,3947,1612
 Secret of the Runes,Therion,8 October 2001,3.72,1323,1613
 Oktubre,Patricio Rey y sus Redonditos de Ricota,4 October 1986,3.75,802,1614
 Movimento perpétuo,Carlos Paredes,3 September 1971,3.77,666,1615
-666,Aphrodite,June 1972,3.71,4392,1616
+666,Aphrodite&#39;s Child,June 1972,3.71,4392,1616
 Workingman&#39;s Dead,Grateful Dead,14 June 1970,3.72,4539,1617
 Addicted,The Devin Townsend Project,17 November 2009,3.70,2933,1618
 Blacklisted,Neko Case,20 August 2002,3.74,2050,1619
-The Hot Rock,Sleater,23 February 1999,3.74,2503,1620
+The Hot Rock,Sleater-Kinney,23 February 1999,3.74,2503,1620
 American V: A Hundred Highways,Johnny Cash,4 July 2006,3.75,2193,1621
 Lawrence of Newark,Larry Young,June 1973,3.77,644,1622
 The Yellow Album,SpongeBob SquarePants,15 November 2005,3.72,756,1623
@@ -1649,7 +1649,7 @@ We&#39;ll Talk About It Later,Nucleus,March 1971,3.76,710,1647
 Memento z banalnym tryptykiem,SBB,16 February 1981,3.76,607,1648
 "Nothing Changes No One Can Change Anything, I Am Ever-Changing Only You Can Change Yourself",Fushitsusha,26 April 2014,3.75,432,1649
 Greatest of the Delta Blues Singers,Skip James,November 1965,3.77,339,1650
-"Thunder, Lightning, Strike",The Go,13 September 2004,3.71,4882,1651
+"Thunder, Lightning, Strike",The Go! Team,13 September 2004,3.71,4882,1651
 The Pearl,Harold Budd,August 1984,3.73,3547,1652
 Honky Château,Elton John,19 May 1972,3.73,3457,1653
 The Key,Nocturnus,August 1990,3.72,2419,1654
@@ -1659,18 +1659,18 @@ The Crypt: 12th June 1968,AMM,1981,3.74,577,1657
 The Shawshank Redemption,Thomas Newman,20 September 1994,3.77,356,1658
 Absolutely Free,The Mothers of Invention,26 May 1967,3.70,6238,1659
 NOLA,Down,19 September 1995,3.71,3614,1660
-Keasbey Nights,Catch Twenty,24 March 1998,3.72,1374,1661
+Keasbey Nights,Catch Twenty-Two,24 March 1998,3.72,1374,1661
 Posłuchaj to do ciebie,Kult,October 1987,3.76,936,1662
 The Psychomodo,Cockney Rebel,June 1974,3.75,808,1663
-The Best Part,J,2001,3.74,806,1664
+The Best Part,J-Live,2001,3.74,806,1664
 Cannonball Adderley Quintet in Chicago,Cannonball Adderley,1959,3.77,662,1665
 Quarteto Nôvo,Quarteto Nôvo,1967,3.77,650,1666
 "Come, Come to the Sunset Tree",The Mountain Goats,2005,3.77,393,1667
 Damned Damned Damned,The Damned,18 February 1977,3.73,4088,1668
 Tales From the Thousand Lakes,Amorphis,12 July 1994,3.70,3619,1669
-Return of the Boom Bap,KRS,28 September 1993,3.73,1999,1670
+Return of the Boom Bap,KRS-One,28 September 1993,3.73,1999,1670
 Split,Groundhogs,April 1971,3.74,1507,1671
-Solar Fire,Manfred Mann,1974,3.75,1100,1672
+Solar Fire,Manfred Mann&#39;s Earth Band,1974,3.75,1100,1672
 Ready for Freddie,Freddie Hubbard,April 1962,3.76,848,1673
 Indianola Mississippi Seeds,B.B. King,October 1970,3.76,549,1674
 Room on Fire,The Strokes,28 October 2003,3.65,16096,1675
@@ -1731,7 +1731,7 @@ Black Saint,Billy Harper,1975,3.77,437,1729
 Marsbéli krónikák,Solaris,1984,3.74,637,1730
 The Dance,Fleetwood Mac,18 August 1997,3.76,745,1731
 Endless Skies,Ashbury,1983,3.75,573,1732
-In the Dark,Toots ,1974,3.76,554,1733
+In the Dark,Toots &amp; The Maytals,1974,3.76,554,1733
 Alfredo,Freddie Gibbs,29 May 2020,3.68,10956,1734
 A Kiss in the Dreamhouse,Siouxsie and The Banshees,October 1982,3.73,2831,1735
 Love at First Sting,Scorpions,27 March 1984,3.71,2786,1736
@@ -1745,11 +1745,11 @@ Neotokyo,Ed Harrison,2009,3.73,839,1743
 L&#39;imprudence,Alain Bashung,21 October 2002,3.73,827,1744
 Martwa polska jesień,Furia,April 2007,3.74,1001,1745
 Live,High Rise,25 October 1994,3.75,494,1746
-A Night in Tunisia,Art Blakey,February 1958,3.77,390,1747
+A Night in Tunisia,Art Blakey&#39;s Jazz Messengers,February 1958,3.77,390,1747
 Streichquartett Op. 3; Lyrische Suite,Arditti String Quartet,1994,3.76,376,1748
 Field Commander Cohen: Tour of 1979,Leonard Cohen,February 2001,3.78,349,1749
 Get Lost,The Magnetic Fields,24 October 1995,3.73,2381,1750
-Satch Plays Fats: A Tribute to the Immortal Fats Waller,Louis Armstrong and His All,1955,3.76,499,1751
+Satch Plays Fats: A Tribute to the Immortal Fats Waller,Louis Armstrong and His All-Stars,1955,3.76,499,1751
 The Roots Come Alive,The Roots,2 November 1999,3.75,445,1752
 First Daze Here Too,Pentagram,7 March 2006,3.76,335,1753
 Wolfheart,Moonspell,1 April 1995,3.72,2105,1754
@@ -1850,7 +1850,7 @@ Coffin for Head of State,Fela,1981,3.75,680,1847
 Kronos Quartet Performs Philip Glass,Kronos Quartet,3 February 1995,3.76,419,1849
 La espada y la pared,Los Tres,1995,3.77,341,1850
 Blow by Blow,Jeff Beck,29 March 1975,3.72,2768,1851
-Johnny Burnette and the Rock &#39;n Roll Trio,Johnny Burnette ,1956,3.74,672,1852
+Johnny Burnette and the Rock &#39;n Roll Trio,Johnny Burnette &amp; The Rock &#39;n Roll Trio,1956,3.74,672,1852
 ?,Neal Morse,1 November 2005,3.70,647,1853
 Alien,Jerry Goldsmith,1979,3.74,484,1854
 Ape Escape: Originape Soundtracks,寺田創一 ,15 February 2011,3.74,436,1855
@@ -1883,7 +1883,7 @@ Deus Ex: Human Revolution,Michael McCann,15 November 2011,3.73,377,1881
 Snakes &amp; Arrows Live,Rush,8 April 2008,3.74,404,1882
 Year of the Snitch,Death Grips,22 June 2018,3.62,17921,1883
 The Sinking of the Titanic,Gavin Bryars,1975,3.71,1473,1884
-T-Bone Blues,T,July 1959,3.75,454,1885
+T-Bone Blues,T-Bone Walker,July 1959,3.75,454,1885
 Y,The Pop Group,20 April 1979,3.67,7193,1886
 Equinoxe,Jean Michel Jarre,17 November 1978,3.72,2834,1887
 Time of the Last Persecution,Bill Fay,February 1971,3.72,1336,1888
@@ -1935,7 +1935,7 @@ Bright Green Field,Squid,7 May 2021,3.66,10548,1933
 Songs for Drella,Lou Reed,24 April 1990,3.71,2902,1934
 In It for the Money,Supergrass,21 April 1997,3.71,2407,1935
 Quella Vecchia Locanda,Quella Vecchia Locanda,June 1972,3.73,832,1936
-A New Perspective,Donald Byrd Band ,February 1964,3.74,824,1937
+A New Perspective,Donald Byrd Band &amp; Voices,February 1964,3.74,824,1937
 Paris,The Cure,26 October 1993,3.74,909,1938
 Transatlanticism,Death Cab for Cutie,7 October 2003,3.65,9968,1939
 Ash Ra Tempel,Ash Ra Tempel,June 1971,3.70,3496,1940
@@ -1993,7 +1993,7 @@ They Might Be Giants,They Might Be Giants,4 November 1986,3.70,2599,1991
 The Congregation,Leprous,25 May 2015,3.69,2289,1992
 In Hearing of Atomic Rooster,Atomic Rooster,August 1971,3.73,1109,1993
 East of the River Nile,Augustus Pablo,1977,3.73,1020,1994
-The London Howlin&#39; Wolf Sessions,Howlin,26 July 1971,3.74,830,1995
+The London Howlin&#39; Wolf Sessions,Howlin&#39; Wolf,26 July 1971,3.74,830,1995
 Cabeça dinossauro,Titãs,June 1986,3.72,877,1996
 Up,Peter Gabriel,23 September 2002,3.72,2433,1997
 Theli,Therion,9 August 1996,3.67,1767,1998
@@ -2012,7 +2012,7 @@ Serenade to a Soul Sister,The Horace Silver Quintet,June 1968,3.76,285,2010
 Music of My Mind,Stevie Wonder,3 March 1972,3.71,3200,2011
 Private Parts,Robert Ashley,1978,3.70,1677,2012
 Grave New World,Strawbs,4 February 1972,3.72,978,2013
-Miss America,Mary Margaret O,1988,3.72,955,2014
+Miss America,Mary Margaret O&#39;Hara,1988,3.72,955,2014
 Dreamweaver,Sabbat,May 1989,3.71,1026,2015
 Through the Darkest Hour,Solitude Aeturnus,17 November 1994,3.72,683,2016
 Dancing in the Dragon&#39;s Jaws,Bruce Cockburn,1979,3.75,356,2017
@@ -2021,7 +2021,7 @@ Hypothetical,Threshold,21 March 2001,3.70,589,2019
 Dreams d&#39;azur,Novembre,25 November 2002,3.69,509,2020
 Mother,鈴木慶一 ,18 February 1989,3.75,357,2021
 The Disintegration Loops,William Basinski,2002,3.64,7967,2022
-Let There Be Rock,AC,21 March 1977,3.64,6555,2023
+Let There Be Rock,AC/DC,21 March 1977,3.64,6555,2023
 The Satanist,Behemoth,7 February 2014,3.66,6087,2024
 Outer Isolation,Vektor,22 November 2011,3.70,3457,2025
 Black Sheep Boy,Okkervil River,5 April 2005,3.69,3357,2026
@@ -2039,17 +2039,17 @@ Rocky,Bill Conti,3 December 1976,3.74,295,2037
 ...And Out Come the Wolves,Rancid,22 August 1995,3.69,3475,2038
 Imaginary Sonicscape,Sigh,23 July 2001,3.67,3156,2039
 Boys for Pele,Tori Amos,22 January 1996,3.70,2927,2040
-Wanted: Dead or Alive,Kool G Rap ,13 August 1990,3.71,848,2041
+Wanted: Dead or Alive,Kool G Rap &amp; DJ Polo,13 August 1990,3.71,848,2041
 ここ (Koko),灰野敬二 ,24 December 2003,3.70,734,2042
 Visitation,Pekka Pohjola,1979,3.73,475,2043
 East Broadway Run Down,Sonny Rollins,January 1967,3.74,458,2044
 The New Abnormal,The Strokes,10 April 2020,3.63,14188,2045
-Fetch,Melt,1 October 2013,3.68,5933,2046
+Fetch,Melt-Banana,1 October 2013,3.68,5933,2046
 Fantastic Planet,Failure,13 August 1996,3.70,2455,2047
 Elizium,Fields of the Nephilim,24 September 1990,3.71,2059,2048
 Night and Day,Joe Jackson,June 1982,3.71,1940,2049
 Bad Girls,Donna Summer,25 April 1979,3.71,1818,2050
-呼吸 (Kokyuu),Lily Chou,17 October 2001,3.71,1163,2051
+呼吸 (Kokyuu),Lily Chou-Chou,17 October 2001,3.71,1163,2051
 Virus,Heavenly,13 November 2006,3.69,380,2052
 Ben Webster Meets Oscar Peterson,Ben Webster,1960,3.75,357,2053
 Ben Folds Live,Ben Folds,8 October 2002,3.74,491,2054
@@ -2063,7 +2063,7 @@ Caravan,Art Blakey Jazz Messengers,December 1962,3.73,538,2061
 No Rest for the Wicked,Truth and Janey,1976,3.73,512,2062
 One,Neal Morse,2 November 2004,3.72,491,2063
 "The Cook, the Thief, His Wife &amp; Her Lover",Michael Nyman,1989,3.75,407,2064
-Introducing Lemon,Cheer,2003,3.73,342,2065
+Introducing Lemon,Cheer-Accident,2003,3.73,342,2065
 Alive,Meshuggah,5 February 2010,3.68,378,2066
 Starfish,The Church,16 February 1988,3.69,3404,2067
 Still Life (Talking),Pat Metheny Group,1987,3.73,1010,2068
@@ -2085,7 +2085,7 @@ Larmes de héros,Sortilège,1986,3.71,539,2083
 Blue Öyster Cult,Blue Öyster Cult,16 January 1972,3.70,3604,2084
 Wintersun,Wintersun,13 September 2004,3.62,3226,2085
 Downward Is Heavenward,Hum,27 January 1998,3.70,2286,2086
-Ritual,Master,1991,3.70,1447,2087
+Ritual,Master&#39;s Hammer,1991,3.70,1447,2087
 The Wake of Magellan,Savatage,15 September 1997,3.70,1056,2088
 Duke Ellington Meets Coleman Hawkins,Duke Ellington,February 1963,3.75,396,2089
 "Dedicado a Antonio Machado, poeta",Joan Manuel Serrat,June 1969,3.74,404,2090
@@ -2097,7 +2097,7 @@ Crac!,Area,1975,3.72,1312,2095
 Stoneage Romeos,Hoodoo Gurus,March 1984,3.71,1181,2096
 Into the Mirror Black,Sanctuary,27 February 1990,3.70,1163,2097
 Helen Merrill,Helen Merrill,1955,3.73,850,2098
-Cornonstípicum,M.I.A. ,1978,3.74,290,2099
+Cornonstípicum,M.I.A. (Músicos Independientes Asociados),1978,3.74,290,2099
 Mariner,Cult of Luna,8 April 2016,3.70,2565,2100
 A Walk Across the Rooftops,The Blue Nile,30 April 1984,3.70,2252,2101
 Live aus Berlin,Rammstein,30 August 1999,3.69,1101,2102
@@ -2146,15 +2146,15 @@ New York Tendaberry,Laura Nyro,24 September 1969,3.70,1499,2144
 Blush Music,Woven Hand,3 February 2003,3.71,1446,2145
 Profondo rosso,Goblin,1975,3.72,992,2146
 Showcase Vol 1,Wayne Jarrett,1982,3.73,648,2147
-Blank Generation,Richard Hell ,September 1977,3.69,3566,2148
+Blank Generation,Richard Hell &amp; The Voidoids,September 1977,3.69,3566,2148
 McDonald and Giles,Ian McDonald,3 January 1971,3.72,973,2149
-V,Spock,August 2000,3.70,1150,2150
+V,Spock&#39;s Beard,August 2000,3.70,1150,2150
 Mice and Rats in the Loft,Jan Dukes de Grey,1971,3.72,910,2151
 Alone,Solitude Aeturnus,10 November 2006,3.71,599,2152
 Tonton Macoute,Tonton Macoute,1971,3.74,500,2153
 Subsurface,Threshold,1 July 2004,3.69,528,2154
 Wee Tam &amp; The Big Huge,The Incredible String Band,November 1968,3.73,508,2155
-Brötzmann / Van Hove / Bennink,Brötzmann ,1973,3.73,447,2156
+Brötzmann / Van Hove / Bennink,Brötzmann / Van Hove / Bennink,1973,3.73,447,2156
 Rosemary Lane,Bert Jansch,1971,3.73,569,2157
 Parte de la religión,Charly García,1987,3.73,520,2158
 De Profundis,The Cracow Klezmer Band,26 September 2000,3.73,443,2159
@@ -2178,7 +2178,7 @@ The Sleep of Morbid Dreams,Funebrarum,17 April 2009,3.71,778,2176
 Act II: The Father of Death,The Protomen,8 September 2009,3.68,858,2177
 Transcendental Blues,Steve Earle,6 June 2000,3.72,648,2178
 Sim City,平沢進 ,2 August 1995,3.73,436,2179
-Creation and Destroy,D,September 2012,3.71,421,2180
+Creation and Destroy,D-Clone,September 2012,3.71,421,2180
 Los Tres,Los Tres,1991,3.72,354,2181
 Even in the Quietest Moments...,Supertramp,April 1977,3.70,2732,2182
 Bend Sinister,The Fall,29 September 1986,3.71,1879,2183
@@ -2230,7 +2230,7 @@ Kovemmat kädet,PMMP,9 March 2005,3.72,422,2228
 So Tonight That I Might See,Mazzy Star,27 September 1993,3.66,8395,2229
 Still,Joy Division,8 October 1981,3.68,4677,2230
 The Dark Third,Pure Reason Revolution,10 April 2006,3.69,1437,2231
-Snow,Spock,27 August 2002,3.70,966,2232
+Snow,Spock&#39;s Beard,27 August 2002,3.70,966,2232
 Ever,IQ,12 June 1993,3.70,578,2233
 A Swingin&#39; Affair!,Frank Sinatra,6 May 1957,3.71,692,2234
 Pamięć,SBB,27 September 1976,3.72,451,2235
@@ -2248,7 +2248,7 @@ Strappado,Slaughter,1987,3.70,1006,2246
 The House of Atreus: Act I,Virgin Steele,27 September 1999,3.70,498,2247
 Fifth Angel,Fifth Angel,15 September 1986,3.71,452,2248
 Like an Old Fashioned Waltz,Sandy Denny,October 1973,3.73,413,2249
-Gov&#39;t Mule,Gov,June 1995,3.71,445,2250
+Gov&#39;t Mule,Gov&#39;t Mule,June 1995,3.71,445,2250
 Back Porch Bluegrass,The Dillards,May 1963,3.73,323,2251
 Vulnicura,Björk,20 January 2015,3.64,10635,2252
 Come In,Weatherday,29 April 2019,3.65,8101,2253
@@ -2264,7 +2264,7 @@ We Shall Overcome: The Seeger Sessions,Bruce Springsteen,25 April 2006,3.69,1766
 Document #5,pg.99,26 April 2000,3.70,1445,2263
 Retribution,Malevolent Creation,2 April 1992,3.70,1246,2264
 Tortured Existence,Demolition Hammer,September 1990,3.70,1203,2265
-Stone&#39;s Reach,Be,5 February 2009,3.67,1770,2266
+Stone&#39;s Reach,Be&#39;lakor,5 February 2009,3.67,1770,2266
 Okie,J.J. Cale,30 April 1974,3.72,717,2267
 Micah P. Hinson and the Gospel of Progress,Micah P. Hinson,6 September 2004,3.70,691,2268
 Rareform,After the Burial,15 September 2009,3.69,412,2269
@@ -2275,7 +2275,7 @@ Buy,Contortions,March 1979,3.67,4814,2273
 Stare Into Death and Be Still,Ulcerate,24 April 2020,3.67,3912,2274
 Live at the Witch Trials,The Fall,16 March 1979,3.69,3980,2275
 Foulest Semen of a Sheltered Elite,The Ruins of Beverast,11 September 2009,3.68,1099,2276
-Tilt (Immagini per un orecchio),Arti ,10 April 1974,3.72,795,2277
+Tilt (Immagini per un orecchio),Arti &amp; Mestieri,10 April 1974,3.72,795,2277
 Live Cream,Cream,12 June 1970,3.72,818,2278
 Strictly From Hunger,Hunger,February 1969,3.72,462,2279
 Silent Alarm,Bloc Party,14 February 2005,3.63,11107,2280
@@ -2287,7 +2287,7 @@ Soul Journey,Gillian Welch,3 June 2003,3.72,666,2285
 Improvised Music From Japan,Various Artists,25 December 2001,3.68,471,2286
 Il n&#39;y a plus rien,Léo Ferré,February 1973,3.71,426,2287
 Intermodulation,Bill Evans,September 1966,3.73,414,2288
-"Things May Come and Things May Go, But the Art School Dance Goes on for Ever",Pete Brown ,April 1970,3.73,345,2289
+"Things May Come and Things May Go, But the Art School Dance Goes on for Ever",Pete Brown &amp; Piblokto!,April 1970,3.73,345,2289
 Relatives in Descent,Protomartyr,29 September 2017,3.67,5527,2290
 Jesu,Jesu,8 December 2004,3.65,5719,2291
 Georges Brassens [Fernande],Georges Brassens,November 1972,3.73,298,2292
@@ -2297,12 +2297,12 @@ Stardust,Willie Nelson,April 1978,3.70,1429,2295
 Rajaz,Camel,7 October 1999,3.70,1188,2296
 Resurrection,Halford,28 August 2000,3.70,1159,2297
 Is It Because I&#39;m Black,Syl Johnson,1970,3.72,471,2298
-Soul Men,Sam ,26 October 1967,3.72,485,2299
+Soul Men,Sam &amp; Dave,26 October 1967,3.72,485,2299
 It Might as Well Be Swing,Frank Sinatra,22 August 1964,3.72,395,2300
 Spirit Phone,Lemon Demon,29 February 2016,3.66,3150,2301
 The Curtain Hits the Cast,Low,13 August 1996,3.70,2466,2302
-The Magic City,Sun Ra ,1966,3.69,1611,2303
-Tallulah,Go,June 1987,3.71,1028,2304
+The Magic City,Sun Ra &amp; His Solar Arkestra,1966,3.69,1611,2303
+Tallulah,Go-Betweens,June 1987,3.71,1028,2304
 Way Out West,Sonny Rollins,1957,3.71,1070,2305
 Beyond the Veil,Tristania,13 September 1999,3.69,911,2306
 Casino,Al Di Meola,25 February 1978,3.71,793,2307
@@ -2371,7 +2371,7 @@ Friendship,Junipher Greene,1971,3.73,366,2369
 Deliverance,Culprate,8 December 2014,3.71,771,2370
 "Bells, Boots and Shambles",Spirogyra,April 1973,3.71,537,2371
 Retriever,Ron Sexsmith,17 May 2004,3.72,400,2372
-Ancestors Call,Huun,October 2010,3.73,345,2373
+Ancestors Call,Huun-Huur-Tu,October 2010,3.73,345,2373
 Saint Vitus,Saint Vitus,February 1984,3.68,2078,2374
 The Destroyers of All,Ulcerate,25 January 2011,3.67,1955,2375
 Rockin&#39; the Suburbs,Ben Folds,11 September 2001,3.68,2032,2376
@@ -2387,9 +2387,9 @@ The Geese &amp; the Ghost,Anthony Phillips,March 1977,3.71,856,2385
 Monkey Barz,Sean Price,31 May 2005,3.71,840,2386
 Jóia,Caetano Veloso,June 1975,3.70,789,2387
 Have Moicy!,Michael Hurley,1976,3.70,685,2388
-"Emerson, Lake &amp; Palmer",Emerson,20 November 1970,3.66,5475,2389
+"Emerson, Lake &amp; Palmer","Emerson, Lake &amp; Palmer",20 November 1970,3.66,5475,2389
 Effloresce,Oceansize,29 September 2003,3.68,1643,2390
-Back Stabbers,O,September 1972,3.71,971,2391
+Back Stabbers,O&#39;Jays,September 1972,3.71,971,2391
 Cold Steel... for an Iron Age,Deströyer 666,22 April 2002,3.68,1039,2392
 Slapp Happy or Slapp Happy,Slapp Happy,1980,3.69,1018,2393
 Sweet Child,The Pentangle,December 1968,3.70,929,2394
@@ -2403,12 +2403,12 @@ Slade Alive!,Slade,24 March 1972,3.70,529,2401
 The Magician&#39;s Birthday,Uriah Heep,November 1972,3.68,2105,2402
 Under Jolly Roger,Running Wild,February 1987,3.68,1280,2403
 Heralding: The Fireblade,Falkenbach,25 November 2005,3.69,879,2404
-Big Shots,Charizma ,18 November 2003,3.70,755,2405
+Big Shots,Charizma &amp; Peanut Butter Wolf,18 November 2003,3.70,755,2405
 Run the Jewels 3,Run the Jewels,24 December 2016,3.62,11645,2406
 Danzig,Danzig,30 August 1988,3.66,4129,2407
 The Song Remains the Same,Led Zeppelin,22 October 1976,3.67,3526,2408
 Moving Gelatine Plates,Moving Gelatine Plates,1971,3.72,466,2409
-Secos &amp; Molhados,Secos ,10 August 1974,3.71,501,2410
+Secos &amp; Molhados,Secos &amp; Molhados,10 August 1974,3.71,501,2410
 Sea Son,Secret Oyster,1974,3.72,409,2411
 Holiday,Magnetic Fields,27 September 1994,3.67,2673,2412
 Wheels of Steel,Saxon,April 1980,3.68,2112,2413
@@ -2416,9 +2416,9 @@ Księga Tajemnicza. Prolog,Kaliber 44,10 November 1996,3.67,1211,2414
 "Words That Go Unspoken, Deeds That Go Undone",Akercocke,10 October 2005,3.67,1362,2415
 冀西南林路行 (Inside the Cable Temple),万能青年旅店 ,22 December 2020,3.70,1244,2416
 Take a Look Around,Master Ace,17 July 1990,3.69,623,2417
-革命京劇 (Revolutionary Pekinese Opera),Ground,20 June 1995,3.70,379,2418
+革命京劇 (Revolutionary Pekinese Opera),Ground-Zero,20 June 1995,3.70,379,2418
 Dookie,Green Day,1 February 1994,3.57,15446,2419
-4:44,Jay,30 June 2017,3.64,8634,2420
+4:44,Jay-Z,30 June 2017,3.64,8634,2420
 The Beach Boys Today!,The Beach Boys,1 March 1965,3.65,5884,2421
 Only Theatre of Pain,Christian Death,24 March 1982,3.67,3726,2422
 Torture Garden,Naked City,1 November 1990,3.65,3244,2423
@@ -2438,7 +2438,7 @@ Amplifier Worship,Boris,26 November 1998,3.65,5581,2436
 Ocean Beach,Red House Painters,28 March 1995,3.67,3560,2437
 Siren,Roxy Music,24 October 1975,3.68,3148,2438
 The Garden of Jane Delawney,Trees,24 April 1970,3.70,987,2439
-Spring Hill Fair,The Go,September 1984,3.69,874,2440
+Spring Hill Fair,The Go-Betweens,September 1984,3.69,874,2440
 Skeleton in Armour,Fusion Orchestra,November 1973,3.72,279,2441
 Fever Ray,Fever Ray,18 March 2009,3.64,6964,2442
 Dig Your Own Hole,The Chemical Brothers,7 April 1997,3.66,6004,2443

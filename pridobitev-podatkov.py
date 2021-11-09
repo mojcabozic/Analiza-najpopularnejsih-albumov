@@ -24,7 +24,7 @@ def naredi_slovar_za_album():
     seznam_blokov = naredi_seznam_blokov()
     vzorec_albuma = re.compile(
         r'title="(?P<album_name>.*?)">.*?'
-        r'class="artist">(?P<artist_name>[\w\d\s\.]*).*?</a></div>.*?'
+        r'class="artist">(?P<artist_name>[^<>]*).*?</a></div>.*?'
         r'<div class="topcharts_item_releasedate">(?P<release_date>.*\d{4}).*?</div>.*?'
         r'<span class="topcharts_stat_category_mobile">Avg: </span>.*?<span class="topcharts_stat topcharts_avg_rating_stat">(?P<rating>.*?)</span>.*?'
         r'<span class="topcharts_stat_category_mobile">Ratings: </span>.*?<span class="topcharts_stat topcharts_ratings_stat">(?P<nr_of_ratings>.*?)</span>.*?'
