@@ -10,10 +10,1465 @@ id_artist,artist_name
 9,The Beach Boys
 10,Nas
 11,Neutral Milk Hotel
-12,Wu-Tang Clan
+12,Wu
 13,Nick Drake
 14,Slint
 15,Joy Division
 16,Bob Dylan
 17,Pixies
 18,Led Zeppelin
+19,Portishead
+20,Television
+21,Kate Bush
+22,Godspeed You Black Emperor
+23,The Doors
+24,DJ Shadow
+25,Miles Davis
+26,Björk
+27,A Tribe Called Quest
+28,The Jimi Hendrix Experience
+29,Death Grips
+30,Sufjan Stevens
+31,Talking Heads
+32,Elliott Smith
+33,Talk Talk
+34,Kanye West
+35,Sonic Youth
+36,Frank Ocean
+37,The Velvet Underground
+38,Genius
+39,Marvin Gaye
+40,Metallica
+41,Nirvana
+42,Grateful Dead
+43,OutKast
+44,Sigur Rós
+45,David Bowie
+46,Bruce Springsteen
+47,Tom Waits
+48,Stevie Wonder
+49,Iron Maiden
+50,J Dilla
+51,Neil Young
+52,Frank Zappa
+53,The Zombies
+54,Big Star
+55,Townes Van Zandt
+56,MF DOOM
+57,Death
+58,John Coltrane
+59,Modest Mouse
+60,Daft Punk
+61,Sweet Trip
+62,Sam Cooke
+63,Mobb Deep
+64,Milton Nascimento
+65,The Cure
+66,The Kinks
+67,Fleetwood Mac
+68,Ennio Morricone
+69,Love
+70,George Harrison
+71,Megadeth
+72,Curtis Mayfield
+73,Iggy and The Stooges
+74,Leonard Cohen
+75,The Notorious B.I.G.
+76,Rory Gallagher
+77,LCD Soundsystem
+78,The Strokes
+79,Depeche Mode
+80,Queen
+81,Jeff Rosenstock
+82,Interpol
+83,Boards of Canada
+84,Jeff Buckley
+85,Creedence Clearwater Revival
+86,Rage Against the Machine
+87,Tyler
+88,Magma
+89,Belle and Sebastian
+90,Freddie Gibbs 
+91,Judas Priest
+92,Between the Buried and Me
+93,Slayer
+94,Hendrix
+95,The Rolling Stones
+96,The Who
+97,Motörhead
+98,Weezer
+99,Jethro Tull
+100,The Allman Brothers Band
+101,Queens of the Stone Age
+102,Comus
+103,Kraftwerk
+104,Dead Kennedys
+105,Johnny Cash
+106,The Replacements
+107,Fela Kuti
+108,Jimi Hendrix
+109,Charlie Mingus
+110,Charles Mingus
+111,Cocteau Twins
+112,C418
+113,Alice in Chains
+114,The Microphones
+115,Tool
+116,Opeth
+117,Daughters
+118,Gang of Four
+119,Funkadelic
+120,Wire
+121,Herbie Hancock
+122,Genesis
+123,Little Simz
+124,Keith Jarrett
+125,Bob Marley
+126,Nick Cave and The Bad Seeds
+127,Bill Evans Trio
+128,Ornette Coleman
+129,David Wise
+130,青葉市子 
+131,Simon and Garfunkel
+132,Boris
+133,Lou Reed
+134,Magnolia Electric Co.
+135,Otis Redding
+136,Beastie Boys
+137,Eno
+138,Staatsorchester Stuttgart
+139,田中宏和 
+140,増田順一 
+141,Ween
+142,Gang Starr
+143,Deep Purple
+144,King Gizzard and the Lizard Wizard
+145,Rush
+146,Seatbelts
+147,Steely Dan
+148,Fishmans
+149,Angelo Badalamenti
+150,Artur Rubinstein
+151,Ten Years After
+152,Kids See Ghosts
+153,At the Drive
+154,Viktor Vaughn
+155,Howard Shore
+156,Jorge Ben
+157,New York Philharmonic
+158,Car Seat Headrest
+159,Mario Galaxy Orchestra
+160,John Williams
+161,The Flaming Lips
+162,Sun Ra
+163,Organized Konfusion
+164,John Lennon
+165,R.E.M.
+166,Deftones
+167,Invisible
+168,The Band
+169,The KT Fellowship
+170,Weyes Blood
+171,椎名林檎 
+172,Pentagram
+173,The Dave Brubeck Quartet
+174,Minutemen
+175,The Knife
+176,Yosuke Yamashita Trio
+177,Camel
+178,Brian Eno
+179,Pulp
+180,久石譲 
+181,The Roots
+182,Mount Eerie
+183,Sly 
+184,Dinosaur
+185,Robert Wyatt
+186,Isaac Hayes
+187,T. Rex
+188,Dissection
+189,Lynyrd Skynyrd
+190,Mt. Eerie
+191,Hüsker Dü
+192,Emperor
+193,Neurosis
+194,Van der Graaf Generator
+195,Mastodon
+196,Queensrÿche
+197,Ground
+198,Robbie Basho
+199,Thee Oh Sees
+200,Ella Fitzgerald
+201,Mahavishnu Orchestra
+202,Glenn Gould
+203,Esbjörn Svensson Trio
+204,The Dismemberment Plan
+205,Immolation
+206,Isis
+207,Porcupine Tree
+208,Blaze Foley
+209,Injury Reserve
+210,Yes
+211,My Morning Jacket
+212,Gentle Giant
+213,Earl Sweatshirt
+214,Parliament
+215,Deltron 3030
+216,Boris With Merzbow
+217,Toby 
+218,Aphex Twin
+219,Gil Scott
+220,Lauryn Hill
+221,Santana
+222,Gene Clark
+223,Aretha Franklin
+224,Berliner Philharmoniker
+225,Lil Ugly Mane
+226,Jay
+227,Duke Ellington
+228,Steven Wright
+229,Gorillaz
+230,Soundgarden
+231,Mr. Bungle
+232,Racionais MC
+233,Bolt Thrower
+234,Cecil Taylor
+235,Velvet Underground
+236,Fugazi
+237,Dismember
+238,Faith No More
+239,Elvis Presley
+240,Rainbow
+241,Boredoms
+242,Wiener Philharmoniker
+243,Laurie Anderson
+244,The Smiths
+245,Van Morrison
+246,The Modern Lovers
+247,NEU
+248,Ramones
+249,Dead Can Dance
+250,Caetano Veloso
+251,Nina Simone
+252,Peter Gabriel
+253,Clipse
+254,Jackson C. Frank
+255,Gojira
+256,Flying Lotus
+257,Elvis Costello
+258,Kreator
+259,JPEGMAFIA
+260,The Brave Little Abacus
+261,Exuma
+262,平沢進 
+263,Siouxsie and The Banshees
+264,Sun Ra and His Arkestra
+265,New Order
+266,XTC
+267,Ghostface Killah
+268,Spiritualized
+269,Immortal
+270,Sepultura
+271,Little Feat
+272,Tatiana Nikolayeva
+273,The Mars Volta
+274,Nico
+275,Astor Piazzolla and The New Tango Quintet
+276,John Cale
+277,George Carlin
+278,Nick Cave 
+279,Edge of Sanity
+280,Refused
+281,James Brown
+282,Accept
+283,Andrew Hill
+284,Tears for Fears
+285,Cannibal Ox
+286,Philip Glass
+287,Mach
+288,Danny Brown
+289,Sagopa Kajmer
+290,The Clash
+291,Don Cherry
+292,Violent Femmes
+293,The Cannonball Adderley Quintet
+294,The Thelonious Monk Quartet
+295,Snoop Doggy Dogg
+296,Unwound
+297,Grand Valley State University New Music Ensemble
+298,Pete Rock 
+299,Roxy Music
+300,Valve Studio Orchestra
+301,Gustavo Cerati
+302,Ryan Amon
+303,下村陽子 
+304,Fleet Foxes
+305,Big Black
+306,Joni Mitchell
+307,Demilich
+308,Dave Matthews 
+309,Candlemass
+310,Public Enemy
+311,The Stooges
+312,Pearl Jam
+313,光田康典 
+314,Wendy Carlos
+315,Derek 
+316,Widdly 2 Diddly
+317,Kyuss
+318,British Sea Power
+319,Tom Zé
+320,Charles Mingus Sextet with Eric Dolphy
+321,Silvio Rodríguez
+322,
+323,Grouper
+324,Sinatra With Count Basie 
+325,長沼英樹 
+326,Belle 
+327,Helloween
+328,Wayne Shorter
+329,Animal Collective
+330,Pascal Rogé
+331,Cartola
+332,Andrew Prahlow
+333,Joanna Newsom
+334,Max Roach
+335,hr
+336,Run the Jewels
+337,Darkthrone
+338,Oliver Nelson
+339,The Fall
+340,Maurizio Pollini
+341,Michael Jackson
+342,Renaissance
+343,공중도둑 
+344,Serge Gainsbourg
+345,Amon Düül II
+346,尾形雅史 
+347,Destruction
+348,Thelonious Monk
+349,King Diamond
+350,Andrew Lloyd Webber 
+351,The Gathering
+352,Henry Cow
+353,Moonsorrow
+354,Jacques Brel
+355,Pestilence
+356,Artillery
+357,牛尾憲輔 
+358,the pillows
+359,PiL
+360,Al Green
+361,Phil Ochs
+362,Paul Simon
+363,This Heat
+364,Various Artists
+365,Pere Ubu
+366,Elton John
+367,Sixteen Horsepower
+368,Clifford Brown and Max Roach
+369,FKA twigs
+370,AC
+371,Beach House
+372,Christopher Larkin
+373,Simon 
+374,이달의 소녀 오드아이써클 
+375,The Blasting Company
+376,The Sound
+377,Morbid Angel
+378,Matana Roberts
+379,Fairport Convention
+380,John Coltrane Featuring Pharoah Sanders
+381,Anathema
+382,Songs
+383,Iggy Pop
+384,The Ornette Coleman Trio
+385,black midi
+386,Sleep
+387,Supertramp
+388,Can
+389,Pusha T
+390,Wynton Kelly
+391,Carissa
+392,John Martyn
+393,Bruno Pernadas
+394,Mutantes
+395,Kevin Penkin
+396,Miles Davis Quintet
+397,King Krule
+398,Pavement
+399,Dire Straits
+400,Riverside
+401,Steve Roach
+402,Wipers
+403,The Necks
+404,Saxon
+405,Jessie Ware
+406,Nine Inch Nails
+407,The Mothers of Invention
+408,Al Di Meola
+409,Nicholas Britell
+410,clipping.
+411,Blue Öyster Cult
+412,Jeremy Soule
+413,Underworld
+414,Autopsy
+415,Bon Iver
+416,Café Tacvba
+417,Kansas
+418,Janelle Monáe
+419,Bernard Herrmann
+420,Roger Waters
+421,Andrew Lloyd Webber and Tim Rice
+422,Belchior
+423,Henry Rollins
+424,Brockhampton
+425,Bad Brains
+426,Stereolab
+427,Coil
+428,Albert King
+429,Coroner
+430,Warren Zevon
+431,Yusef Lateef
+432,Converge
+433,Scott Walker
+434,Suffocation
+435,Fabrizio De André
+436,永田権太 
+437,Tim Buckley
+438,Bark Psychosis
+439,Manic Street Preachers
+440,CunninLynguists
+441,Klaus Schulze
+442,Blondie
+443,Electric Wizard
+444,Beyoncé
+445,Jefferson Airplane
+446,Manuel Göttsching
+447,Dream Theater
+448,The National
+449,Built to Spill
+450,Crosby
+451,Vektor
+452,Roy Harper
+453,Colosseum
+454,Steven Osborne
+455,Celtic Frost
+456,Denzel Curry
+457,Mort Garson
+458,Prince
+459,The Residents
+460,Type O Negative
+461,X
+462,Terry Callier
+463,Roland Kirk
+464,The Tale Quartet
+465,Sparks
+466,Orchid
+467,Little Brother
+468,Silver Jews
+469,The Charlie Mingus Jazz Workshop
+470,Morbid Saint
+471,B.B. King
+472,Jimi Hendrix Experience
+473,Devo
+474,Dark Angel
+475,Kool G. Rap 
+476,ミドリ 
+477,The Moody Blues With The London Festival Orchestra
+478,Captain Beefheart and The Magic Band
+479,Fiona Apple
+480,Harmonium
+481,Blind Guardian
+482,Pig Destroyer
+483,高木正勝 
+484,川井憲次 
+485,Steve Martin
+486,Autechre
+487,Nick Cave and Warren Ellis
+488,The White Stripes
+489,De La Soul
+490,Godflesh
+491,菅野由弘 
+492,The United States of America
+493,Thin Lizzy
+494,Triana
+495,Necrophobic
+496,O.C.
+497,Charly García
+498,Xiu Xiu
+499,King Geedorah
+500,Jerry Goldsmith
+501,Lingua Ignota
+502,近藤浩治 
+503,Gamma Ray
+504,James Carr
+505,Pierre
+506,Astor Piazzolla y su Quinteto
+507,The Byrds
+508,The Waterboys
+509,Manilla Road
+510,Cult of Luna
+511,James Ferraro
+512,Ewa Demarczyk
+513,W.A.S.P.
+514,John Prine
+515,Little Richard
+516,Floating Points
+517,Eric Dolphy
+518,Louis C.K.
+519,Uriah Heep
+520,Slowdive
+521,Aldo Ciccolini
+522,Dietmar Wiesner
+523,Wilco
+524,Derek and The Dominos
+525,Robin Trower
+526,Mgła
+527,Quasimoto
+528,Meat Puppets
+529,Tindersticks
+530,Junior Wells
+531,Tangerine Dream
+532,Ry Cooder
+533,Mark Morgan
+534,Standing on the Corner
+535,OMORI
+536,Amy Winehouse
+537,Bonnie 
+538,Big K.R.I.T.
+539,Against All Logic
+540,Anna von Hausswolff
+541,PJ Harvey
+542,Magdalena Bay
+543,Tiamat
+544,Bill Withers
+545,Joe Henderson
+546,The John Coltrane Quartet
+547,Bauhaus
+548,John Fahey
+549,Kraan
+550,Captain Beyond
+551,Kronos Quartet
+552,Pat Metheny Group
+553,Magazine
+554,Museo Rosenbach
+555,Idles
+556,Jeru the Damaja
+557,U2
+558,Marillion
+559,Serú Girán
+560,Arthur Russell
+561,Tim Maia
+562,SOPHIE
+563,Siekiera
+564,Premiata Forneria Marconi
+565,The Arrogant Sons of Bitches
+566,Secos 
+567,Freddie Hubbard
+568,Víctor Jara
+569,Marcos Valle
+570,Nightwish
+571,Testament
+572,Kungliga Filharmonikerna
+573,Faust
+574,Sodom
+575,Metal Church
+576,King Gizzard 
+577,Voivod
+578,Devin Townsend
+579,Marek Grechuta
+580,Common
+581,The Wailers
+582,Koopsta Knicca
+583,Crimson Glory
+584,Dälek
+585,Pain of Salvation
+586,Electric Light Orchestra
+587,Common Sense
+588,The Pharcyde
+589,Tame Impala
+590,Exodus
+591,Billie Holiday
+592,Humble Pie
+593,Roky Erickson and The Aliens
+594,Heartbreakers
+595,Les McCann
+596,Frank Sinatra
+597,Reflection Eternal
+598,Muddy Waters
+599,death
+600,Beck
+601,Violeta Parra
+602,Arturo Benedetti Michelangeli
+603,Martin O
+604,Deafheaven
+605,Current 93
+606,Etta James
+607,Randy Newman
+608,Eliane Radigue
+609,Kero Kero Bonito
+610,Son House
+611,Primordial
+612,Extremoduro
+613,Bill Evans
+614,Brutality
+615,Astor Piazzolla
+616,AIR
+617,The Go
+618,ELO
+619,Munly 
+620,Lena Raine
+621,Big Brother 
+622,Procol Harum
+623,Sade
+624,Aaliyah
+625,Daniel Lopatin
+626,Stevie Ray Vaughan and Double Trouble
+627,Alice Cooper
+628,John Lee Hooker
+629,Kingston Wall
+630,Danny Elfman
+631,Jon Hopkins
+632,Ghazal
+633,Jackie McLean
+634,Tortoise
+635,Primus
+636,Prince and The Revolution
+637,Big Pun
+638,Änglagård
+639,Overkill
+640,Virgin Steele
+641,Zé Ramalho
+642,Fields of the Nephilim
+643,Morphine
+644,Possessed
+645,Franco Battiato
+646,Millie Jackson
+647,The Jesus Lizard
+648,Purple Mountains
+649,The Blue Nile
+650,DJ Sprinkles
+651,Kamelot
+652,Toots 
+653,Groupe de Recherches Musicales de la RTF
+654,Eric B. 
+655,Sleater
+656,Hans Zimmer
+657,Candy Claws
+658,Ulver
+659,Savatage
+660,Elvis Costello 
+661,Cardiacs
+662,Ted Nugent
+663,The Lord Weird Slough Feg
+664,Janis Joplin
+665,Oasis
+666,Jay Reatard
+667,UFO
+668,Nature and Organisation
+669,Chris Squire
+670,Los Jaivas
+671,CCCP Fedeli alla Linea
+672,Myslovitz
+673,Paulinho da Viola
+674,Jim O
+675,Paradise Lost
+676,Black Country
+677,Running Wild
+678,Electronic Studio Westdeutscher Rundfunk Köln
+679,Nacho Vegas
+680,The Blues Brothers
+681,Shuggie Otis
+682,Spirit
+683,Redman
+684,Paco de Lucía
+685,Sunny Day Real Estate
+686,Sam Rivers
+687,The Bill Dixon Orchestra
+688,The Cars
+689,Ice Cube
+690,Patti Smith Group
+691,Gillian Welch
+692,Main Source
+693,Max Romeo
+694,Esoteric
+695,Gil Evans
+696,Vashti Bunyan
+697,Paddy McAloon
+698,Emmylou Harris
+699,Yellow Magic Orchestra
+700,Gustavo Santaolalla
+701,Charli XCX
+702,The Gun Club
+703,파란노을 
+704,Wolves in the Throne Room
+705,Lucinda Williams
+706,Tom Petty
+707,Stiff Little Fingers
+708,Bobby Bland
+709,Nick Cave
+710,Eesti Filharmoonia Kammerkoor
+711,Steve Hackett
+712,Green Carnation
+713,Robert Rich
+714,Duke Ellington and His Orchestra
+715,Gong
+716,Lorde
+717,Repulsion
+718,Lamp
+719,Molested
+720,Black Uhuru
+721,Elza
+722,Shivkumar Sharma 
+723,Jon Brion
+724,The Nitty Gritty Dirt Band
+725,Lana Del Rey
+726,The B
+727,Lost Horizon
+728,Enrique Morente
+729,Yayayi
+730,Trevor Jones
+731,Willie Nelson
+732,Ella Fitzgerald 
+733,Snarky Puppy
+734,Suede
+735,Pretty Things
+736,The Ahmad Jamal Trio
+737,Los Tres
+738,Galaxie 500
+739,The Sisters of Mercy
+740,Anthony Braxton
+741,Eberhard Weber Colours
+742,Global Communication
+743,Gram Parsons
+744,The Upsetters
+745,Dead Congregation
+746,Number Girl
+747,Buddy Guy
+748,静香 
+749,Toquinho e Vinícius
+750,Peter McConnell
+751,Alan Menken
+752,Fenton Robinson
+753,Pet Shop Boys
+754,Enslaved
+755,Area
+756,Company Flow
+757,Joan Manuel Serrat
+758,Jean Michel Jarre
+759,Freddie King
+760,J.J. Cale
+761,Eberhard Weber
+762,Bomb the Music Industry
+763,Phoenix
+764,Black Alien
+765,At the Gates
+766,Masta Ace
+767,Warning
+768,Cheap Trick
+769,Madlib
+770,瀬上純 
+771,Earth
+772,The Zbigniew Namysłowski Quintet
+773,Sonny Clark
+774,Johnny Winter
+775,Clifford Jordan Quartet
+776,Tori Amos
+777,Pharoahe Monch
+778,Кино 
+779,Disillusion
+780,Hound Dog Taylor 
+781,Alias Conrad Coldwood
+782,Peter Tosh
+783,Junior Kimbrough
+784,The Soft Machine
+785,Hawkwind
+786,Gorguts
+787,Peter Hammill
+788,Patton Oswalt
+789,Ride
+790,Jan Johansson
+791,Kult
+792,Wuthering Heights
+793,Bohren 
+794,Alain Goraguer
+795,Asko Ensemble
+796,El
+797,Melvins
+798,Soda Stereo
+799,Arditti String Quartet
+800,ConcernedApe
+801,The Field
+802,Richard 
+803,Metá Metá
+804,Ras Kass
+805,Mal Waldron with Eric Dolphy and Booker Ervin
+806,Wowaka
+807,Ijahman
+808,Max Richter
+809,Harold Budd
+810,Popol Vuh
+811,Strapping Young Lad
+812,Niños del Cerro
+813,Marcin Przybyłowicz
+814,Rammstein
+815,James Chance 
+816,Traffic
+817,Tom Petty and The Heartbreakers
+818,Chick Corea
+819,16 Horsepower
+820,Jonny Greenwood
+821,Willie Colón 
+822,Эдуард Артемьев 
+823,Clarence Clarity
+824,Bob Dylan 
+825,Anthrax
+826,Morrissey
+827,Willie Dixon
+828,Mad Season
+829,Judee Sill
+830,Ravi Shankar
+831,Moacir Santos
+832,Mickey Newbury
+833,Mulatu Astatke featuring Fekade Amde Maskal
+834,Dinal
+835,北村友香 
+836,Elizabeth Cotten
+837,John Barry
+838,Drudkh
+839,Deicide
+840,Showbiz 
+841,Tiro de Gracia
+842,Taste
+843,Misfits
+844,Trent Reznor and Atticus Ross
+845,Jay Munly
+846,Buddy Guy 
+847,The Left Banke
+848,Orphaned Land
+849,Czesław Niemen
+850,Dawn
+851,Pappo
+852,George Clanton
+853,Steeleye Span
+854,Manfred Mann
+855,Orbital
+856,Arcturus
+857,Rod Stewart
+858,Portraits of Past
+859,Drive
+860,Егор и Опизденевшие 
+861,Playboi Carti
+862,Bill Callahan
+863,Free
+864,The Isley Brothers
+865,Disasterpeace
+866,Daniel Johnston
+867,cLOUDDEAD
+868,Mission of Burma
+869,José Afonso
+870,The Pentangle
+871,Angra
+872,Laura Nyro
+873,Adoniran Barbosa
+874,The Michael Schenker Group
+875,Eminem
+876,Steve Hillage
+877,Orquesta Sinfónica de Galicia
+878,The Radio Dept.
+879,The Devin Townsend Band
+880,芸能山城組 
+881,Pharoah Sanders
+882,Shellac
+883,Billy Woods
+884,Mass of the Fermenting Dregs
+885,Simple Minds
+886,Tommy Wright III
+887,Guy Clark
+888,Tubeway Army
+889,Insomnium
+890,Leo Kottke
+891,Emitt Rhodes
+892,Yellow Swans
+893,Katatonia
+894,Budgie
+895,Michael Nyman
+896,Thomas Newman
+897,Steel Mill
+898,Blur
+899,Discharge
+900,Elder
+901,Julia Holter
+902,Scorpions
+903,Death Angel
+904,Vince Guaraldi Trio
+905,Pretenders
+906,Jimmy Eat World
+907,Symphony X
+908,James Horner
+909,Caravan
+910,My Dying Bride
+911,Kingpin Skinny Pimp
+912,Pagan Altar
+913,Neko Case
+914,Dog Faced Hermans
+915,The God Machine
+916,Seat Belts
+917,Nasum
+918,KCE Japan Sound Team
+919,Rudimentary Peni
+920,Trouble
+921,The Blue Effect
+922,Killing Joke
+923,Young Marble Giants
+924,The Soft Boys
+925,Moor Mother
+926,Hugh Mundell
+927,The Specials
+928,The Sundays
+929,The KLF
+930,Ensemble intercontemporain
+931,Solitude Aeturnus
+932,Genesis Owusu
+933,The Moody Blues
+934,Yabby You
+935,Mtume Umoja Ensemble
+936,Oranssi Pazuzu
+937,Grandaddy
+938,13th Floor Elevators
+939,The Supremes
+940,Wicked Lady
+941,Madredeus
+942,Sidney Gish
+943,Mike Bloomfield
+944,Dinosaur Jr
+945,Joe Jackson
+946,mewithoutYou
+947,Gal Costa
+948,Leprous
+949,Todd Edwards
+950,Nazareth
+951,Africa Express
+952,London Symphony Orchestra
+953,DJ Sabrina the Teenage DJ
+954,The Mighty Diamonds
+955,Japan
+956,Syd Barrett
+957,PRMLSCRM
+958,Teenage Fanclub
+959,Antônio Carlos Jobim
+960,Riot
+961,Jeff Mangum
+962,Captain Beefheart 
+963,Insect Warfare
+964,Madonna
+965,Therion
+966,Patricio Rey y sus Redonditos de Ricota
+967,Carlos Paredes
+968,Aphrodite
+969,The Devin Townsend Project
+970,Larry Young
+971,SpongeBob SquarePants
+972,Shakti With John McLaughlin
+973,Grand Funk Railroad
+974,They Might Be Giants
+975,William Basinski
+976,Big Mama Thornton
+977,Mayhem
+978,Los Planetas
+979,Al Stewart
+980,Dystopia
+981,Edan
+982,Annihilator
+983,Klaus Mitffoch
+984,Nucleus
+985,SBB
+986,Fushitsusha
+987,Skip James
+988,Nocturnus
+989,SPK
+990,Carol of Harvest
+991,AMM
+992,Down
+993,Catch Twenty
+994,Cockney Rebel
+995,J
+996,Cannonball Adderley
+997,Quarteto Nôvo
+998,The Mountain Goats
+999,The Damned
+1000,Amorphis
+1001,KRS
+1002,Groundhogs
+1003,Mick Gordon
+1004,Warlord
+1005,Waylon Jennings
+1006,The Jesus and Mary Chain
+1007,Lisa Germano
+1008,Lightning Bolt
+1009,Colin Stetson
+1010,Natalia Lafourcade
+1011,Burning Spear
+1012,Gaelle
+1013,Oingo Boingo
+1014,Booker Little
+1015,Peste Noire
+1016,Nektar
+1017,Justin Hurwitz
+1018,The Meters
+1019,Loreena McKennitt
+1020,Joel
+1021,Kristofer Maddigan
+1022,Deathspell Omega
+1023,Arab Strap
+1024,Sibylle Baier
+1025,Janet Jackson
+1026,Coleman Hawkins
+1027,Bert Jansch
+1028,McCoy Tyner
+1029,Michael Hoenig
+1030,Nils Frahm
+1031,Montrose
+1032,Pezet
+1033,Mogwai
+1034,Natural Snow Buildings
+1035,Billy Harper
+1036,Solaris
+1037,Ashbury
+1038,Freddie Gibbs
+1039,The Sweet
+1040,ኃይሉ መርጊያ 
+1041,Ed Harrison
+1042,Alain Bashung
+1043,Furia
+1044,High Rise
+1045,Art Blakey
+1046,The Magnetic Fields
+1047,Louis Armstrong and His All
+1048,Moonspell
+1049,Smog
+1050,Iced Earth
+1051,Colin Newman
+1052,Alvvays
+1053,Chico Buarque de Hollanda
+1054,Monks
+1055,Bacamarte
+1056,Masterplan
+1057,Bunny Wailer
+1058,The D.O.C.
+1059,Jag Panzer
+1060,Tomasz Stanko Septet
+1061,The Olivia Tremor Control
+1062,The Black Crowes
+1063,Dorival Caymmi
+1064,Andy Irvine
+1065,Mahalia Jackson
+1066,Mercury Rev
+1067,Kris Kristofferson
+1068,The Don Ellis Orchestra
+1069,Return to Forever featuring Chick Corea
+1070,Wings
+1071,Elis Regina
+1072,Atomic Rooster
+1073,Spring
+1074,Terry Riley
+1075,Os Paralamas do Sucesso
+1076,Destroyer
+1077,Amon Tobin
+1078,Almendra
+1079,Hatfield and the North
+1080,Battiato
+1081,АукцЫон
+1082,Taj Mahal
+1083,SWR Sinfonieorchester
+1084,Mountain
+1085,Lech Janerka
+1086,Carmine Coppola
+1087,Septicflesh
+1088,森田童子 
+1089,Fela
+1090,Walrus
+1091,Jeff Beck
+1092,Johnny Burnette 
+1093,Neal Morse
+1094,寺田創一 
+1095,Mac Miller
+1096,M.I.A.
+1097,Carcass
+1098,Ben Folds Five
+1099,Linton Kwesi Johnson
+1100,Matthew Halsall
+1101,CMX
+1102,Art Blakey and the Jazz Messengers
+1103,MC5
+1104,pageninetynine
+1105,Ayreon
+1106,Univers Zéro
+1107,Terry Allen
+1108,Ciśnienie
+1109,Michael McCann
+1110,Gavin Bryars
+1111,T
+1112,The Pop Group
+1113,Bill Fay
+1114,Mica Levi
+1115,Milton
+1116,Nara Leão
+1117,공중도덕
+1118,Manfred Schoof
+1119,Origami Angel
+1120,Ark
+1121,Stan Getz
+1122,Bud Powell
+1123,One Be Lo
+1124,Lee Hazlewood
+1125,Embryo
+1126,Lalo Schifrin
+1127,Kenny Drew
+1128,Archie Shepp
+1129,Ecco2K
+1130,Broadcast
+1131,The Stranglers
+1132,Danzig
+1133,Gilberto Gil
+1134,Tomasz Stańko Quintet
+1135,Zbigniew Seifert
+1136,GAS
+1137,Spooky Tooth
+1138,Hammers of Misfortune
+1139,Skycamefalling
+1140,The Oscar Peterson Trio
+1141,Willis Alan Ramsey
+1142,Paul Kelly and the Coloured Girls
+1143,Squid
+1144,Supergrass
+1145,Quella Vecchia Locanda
+1146,Donald Byrd Band 
+1147,Death Cab for Cutie
+1148,Ash Ra Tempel
+1149,Yo La Tengo
+1150,Force of Nature
+1151,Hoedh
+1152,Maria del Mar Bonet
+1153,Stanley Clarke
+1154,Killer Mike
+1155,Women
+1156,The Prodigy
+1157,Buddy Holly
+1158,Sadus
+1159,KOTO
+1160,Lianne La Havas
+1161,Blood Incantation
+1162,Christian Vander
+1163,Claudio Lolli
+1164,The Shins
+1165,Adrianne Lenker
+1166,tricot
+1167,Nilsson
+1168,Chris Bell
+1169,Sui Generis
+1170,Virus
+1171,John Carpenter
+1172,Black Flag
+1173,Estas Tonne
+1174,Boldy James
+1175,Dün
+1176,Rotting Christ
+1177,Richard Hawley
+1178,The Tea Party
+1179,Satin Whale
+1180,Los Fabulosos Cadillacs
+1181,Roy Haynes Quartet
+1182,Paul McCartney
+1183,Augustus Pablo
+1184,Howlin
+1185,Titãs
+1186,Uncle Tupelo
+1187,Ibrahim Ferrer
+1188,The Impressions
+1189,Solstice
+1190,t e l e p a t h テレパシー能力者
+1191,The Killers
+1192,The Horace Silver Quintet
+1193,Robert Ashley
+1194,Strawbs
+1195,Mary Margaret O
+1196,Sabbat
+1197,Bruce Cockburn
+1198,Glenn Branca
+1199,Threshold
+1200,Novembre
+1201,鈴木慶一 
+1202,Behemoth
+1203,Okkervil River
+1204,Maxwell
+1205,Pantera
+1206,Four Tops
+1207,Vader
+1208,Westside Gunn
+1209,Osanna
+1210,Bill Conti
+1211,Rancid
+1212,Sigh
+1213,Kool G Rap 
+1214,灰野敬二 
+1215,Pekka Pohjola
+1216,Sonny Rollins
+1217,Melt
+1218,Failure
+1219,Donna Summer
+1220,Lily Chou
+1221,Heavenly
+1222,Ben Webster
+1223,Ben Folds
+1224,Fred Wesley
+1225,The Ruins of Beverast
+1226,Junior Delahaye
+1227,언니네이발관 
+1228,Art Blakey Jazz Messengers
+1229,Truth and Janey
+1230,Cheer
+1231,Meshuggah
+1232,The Church
+1233,Fates Warning
+1234,Sugar
+1235,Ini Kamoze
+1236,The Keith Tippett Group
+1237,Cristobal Tapia de Veer
+1238,Lupe Fiasco
+1239,Monster Magnet
+1240,Woven Hand
+1241,Joe Cocker
+1242,Evoken
+1243,Sortilège
+1244,Wintersun
+1245,Hum
+1246,Master
+1247,菅野よう子 
+1248,Hoodoo Gurus
+1249,Sanctuary
+1250,Helen Merrill
+1251,M.I.A. 
+1252,２８１４
+1253,La Maldita Vecindad y los Hijos del Quinto Patio
+1254,Magrudergrind
+1255,The Decemberists
+1256,Swell Maps
+1257,The Alan Parsons Project
+1258,Doopees
+1259,National Health
+1260,Locanda delle Fate
+1261,Robbie Băsho
+1262,Champion Jack Dupree
+1263,Kleenex Girl Wonder
+1264,Spinetta Jade
+1265,BK
+1266,Pete La Roca
+1267,Horace Tapscott Quintet
+1268,Darren Korb
+1269,Albert Collins
+1270,New York Dolls
+1271,Christoph de Babalon
+1272,Jens Lekman
+1273,Bright Eyes
+1274,Echo and The Bunnymen
+1275,Buzzcocks
+1276,Pinback
+1277,Goblin
+1278,Wayne Jarrett
+1279,Richard Hell 
+1280,Ian McDonald
+1281,Spock
+1282,Jan Dukes de Grey
+1283,Tonton Macoute
+1284,The Incredible String Band
+1285,Brötzmann 
+1286,The Cracow Klezmer Band
+1287,Metro
+1288,Puressence
+1289,Lunatic
+1290,Einstürzende Neubauten
+1291,M Efekt
+1292,Dolly Parton
+1293,Beat Konducta
+1294,Vinterland
+1295,The Paul Butterfield Blues Band
+1296,Los Hermanos
+1297,Mark Lanegan
+1298,Funebrarum
+1299,The Protomen
+1300,Steve Earle
+1301,D
+1302,God
+1303,Ryuichi Sakamoto
+1304,Falconer
+1305,Masada
+1306,The Gerogerigegege
+1307,The Dukes of Stratosphear
+1308,David S. Ware Quartet
+1309,АукцЫон 
+1310,Dr. Feelgood
+1311,Lucio Battisti
+1312,John Frusciante
+1313,Theatre of Voices
+1314,Tomasz Stanko Quintet
+1315,Boston
+1316,The Drones
+1317,John Mayall
+1318,The Tragically Hip
+1319,Non Phixion
+1320,Maxophone
+1321,Vlad Tepes
+1322,Unida
+1323,Devil Doll
+1324,Irish Coffee
+1325,Oneohtrix Point Never
+1326,Tohru Aizawa Quartet
+1327,Benny the Butcher
+1328,Ange
+1329,PMMP
+1330,Mazzy Star
+1331,Pure Reason Revolution
+1332,IQ
+1333,Som Imaginário
+1334,Fantasy
+1335,In Flames
+1336,The Gaslight Anthem
+1337,Weather Report
+1338,England
+1339,Power of Zeus
+1340,Nick Lowe
+1341,Slaughter
+1342,Fifth Angel
+1343,Sandy Denny
+1344,Gov
+1345,The Dillards
+1346,Weatherday
+1347,Spellling
+1348,ZZ Top
+1349,Tracy Chapman
+1350,Asphyx
+1351,Oceansize
+1352,pg.99
+1353,Malevolent Creation
+1354,Demolition Hammer
+1355,Be
+1356,Micah P. Hinson
+1357,After the Burial
+1358,Joe Farrell
+1359,Swans
+1360,Contortions
+1361,Ulcerate
+1362,Arti 
+1363,Cream
+1364,Hunger
+1365,Bloc Party
+1366,Haken
+1367,The Wedding Present
+1368,Léo Ferré
+1369,Pete Brown 
+1370,Protomartyr
+1371,Jesu
+1372,Georges Brassens
+1373,Halford
+1374,Syl Johnson
+1375,Sam 
+1376,Lemon Demon
+1377,Low
+1378,Sun Ra 
+1379,Go
+1380,Tristania
+1381,MONO
+1382,Deepchord Presents Echospace
+1383,Phideaux
+1384,James Gang
+1385,NoMeansNo
+1386,Cock Sparrer
+1387,MIKE
+1388,Hibria
+1389,Timeless Miracle
+1390,Sex Pistols
+1391,Red Hot Chili Peppers
+1392,Everything Everything
+1393,Botch
+1394,R.A.P. Ferreira
+1395,Helstar
+1396,Incantation
+1397,Brown and Roach
+1398,Dick Gaughan
+1399,Zappa
+1400,Alaska y Dinarama
+1401,Dr. Octagon
+1402,Eloy
+1403,Crowbar
+1404,Shivkumar Sharma
+1405,Chris Isaak
+1406,Evergrey
+1407,Alcest
+1408,Residents
+1409,Muse
+1410,Draconian
+1411,Every Time I Die
+1412,Roc Marciano
+1413,Infernäl Mäjesty
+1414,The Blue Öyster Cult
+1415,Stars of the Lid
+1416,Streetlight Manifesto
+1417,Richard Thompson
+1418,Michelle Shocked
+1419,Pino Daniele
+1420,Junipher Greene
+1421,Culprate
+1422,Spirogyra
+1423,Ron Sexsmith
+1424,Huun
+1425,Saint Vitus
+1426,Moss Icon
+1427,Marijata
+1428,Psychotic Waltz
+1429,Hopesfall
+1430,Guthrie Govan
+1431,Mink DeVille
+1432,The Hotelier
+1433,Anthony Phillips
+1434,Sean Price
+1435,Michael Hurley
+1436,Emerson
+1437,O
+1438,Deströyer 666
+1439,Slapp Happy
+1440,Aerosmith
+1441,Atheist
+1442,Virgin Black
+1443,Truly
+1444,Slade
+1445,Falkenbach
+1446,Charizma 
+1447,Moving Gelatine Plates
+1448,Secret Oyster
+1449,Magnetic Fields
+1450,Kaliber 44
+1451,Akercocke
+1452,万能青年旅店 
+1453,Master Ace
+1454,Green Day
+1455,Christian Death
+1456,Naked City
+1457,The Afghan Whigs
+1458,Tenhi
+1459,Saetia
+1460,Suzanne Vega
+1461,Camberwell Now
+1462,Dark Quarterer
+1463,Canned Heat
+1464,Buckethead
+1465,Roy Buchanan
+1466,Red House Painters
+1467,Trees
+1468,Fusion Orchestra
+1469,Fever Ray
+1470,The Chemical Brothers
+1471,toe
+1472,The Crazy World of Arthur Brown
+1473,Blut aus Nord

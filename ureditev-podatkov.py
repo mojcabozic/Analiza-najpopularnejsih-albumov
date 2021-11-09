@@ -70,3 +70,4 @@ with open("albumi.csv", "w") as dat:
     for data in albumi:
         writer.writerow(data)
 
+
