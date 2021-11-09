@@ -19,19 +19,17 @@ list_of_dict_for_artists = []
 list_of_dict_for_genres = []
 list_of_dict_for_desc_words = []
 next_id_artists = 1
-next_id_genres = 1
 next_id_desc_words = 1
 
-for album in albumi:
+for i, album in enumerate(albumi):
+    album["id"] = i + 1
     current_artist = album["artist_name"] 
     if not is_duplicated(list_of_dict_for_artists, "artist_name", current_artist):
         list_of_dict_for_artists.append({"id_artist": next_id_artists, "artist_name": current_artist})
         next_id_artists += 1   
 
     for genre in album["genres"]:
-        if not is_duplicated(list_of_dict_for_genres, "genre", genre):
-            list_of_dict_for_genres.append({"id_genre": next_id_genres, "genre": genre})
-            next_id_genres += 1
+        list_of_dict_for_genres.append({"id_albuma": album["id"], "genre": genre})
 
     for descriptive_word in album["descriptive_words"]:
         if not is_duplicated(list_of_dict_for_desc_words, "descriptive_word", descriptive_word):
@@ -45,7 +43,7 @@ with open("artists.csv", "w") as dat:
         writer.writerow(data)
 
 with open("genres.csv", "w") as dat:
-    writer = csv.DictWriter(dat, fieldnames=["id_genre", "genre"])
+    writer = csv.DictWriter(dat, fieldnames=["id_albuma", "genre"])
     writer.writeheader()
     for data in list_of_dict_for_genres:
         writer.writerow(data)
@@ -71,3 +69,17 @@ with open("albumi.csv", "w") as dat:
         writer.writerow(data)
 
 
+list_of_dict_for_artists_and_albums = []
+for artist in list_of_dict_for_artists:
+    id_artist = artist["id_artist"]
+    for album in albumi:
+        if album["artist_name"] == artist["artist_name"]:
+            album_name = album["album_name"]
+            list_of_dict_for_artists_and_albums.append({"id_artist": f"{id_artist}", "album_name": f"{album_name}"})
+
+
+with open("artists_and_albums.csv", "w") as dat:
+    writer = csv.DictWriter(dat, fieldnames=["id_artist", "album_name"])
+    writer.writeheader()
+    for data in list_of_dict_for_artists_and_albums:
+        writer.writerow(data)
