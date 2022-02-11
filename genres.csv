@@ -93,7 +93,7 @@ id_albuma,genre
 45,Pop Rap
 46,Noise Rock
 46,Alternative Rock
-47,Alternative R&amp;B
+47,Alternative R&B
 47,Art Pop
 47,Neo-Soul
 48,Pop Rock
@@ -391,7 +391,7 @@ id_albuma,genre
 205,Video Game Music
 205,16-bit
 206,Video Game Music
-206,Sequencer &amp; Tracker
+206,Sequencer & Tracker
 207,Alternative Rock
 207,Art Rock
 208,East Coast Hip Hop
@@ -614,7 +614,7 @@ id_albuma,genre
 329,Drone Metal
 330,Hard Rock
 331,Video Game Music
-331,Sequencer &amp; Tracker
+331,Sequencer & Tracker
 332,Industrial Hip Hop
 332,Abstract Hip Hop
 332,Experimental Hip Hop
@@ -625,7 +625,7 @@ id_albuma,genre
 335,Cinematic Classical
 336,Thrash Metal
 337,Neo-Soul
-337,Contemporary R&amp;B
+337,Contemporary R&B
 337,East Coast Hip Hop
 338,Latin Rock
 339,Country Rock
@@ -666,15 +666,15 @@ id_albuma,genre
 358,Progressive Rock
 359,Proto-Punk
 359,Rock
-360,Alternative R&amp;B
-360,Contemporary R&amp;B
+360,Alternative R&B
+360,Contemporary R&B
 361,Post-Hardcore
 362,Death Metal
 363,Alternative Metal
 363,Alternative Rock
 364,Post-Hardcore
 364,Indie Rock
-365,Rock &amp; Roll
+365,Rock & Roll
 365,Pop Rock
 366,Progressive Rock
 366,Hard Rock
@@ -695,7 +695,7 @@ id_albuma,genre
 374,Jangle Pop
 374,Indie Pop
 375,Singer/Songwriter
-375,Rhythm &amp; Blues
+375,Rhythm & Blues
 376,Singer/Songwriter
 376,Contemporary Folk
 376,Americana
@@ -890,7 +890,7 @@ id_albuma,genre
 476,Smooth Soul
 477,Noise Rock
 477,Post-Hardcore
-478,Alternative R&amp;B
+478,Alternative R&B
 478,Ambient Pop
 478,Art Pop
 479,Singer/Songwriter
@@ -929,7 +929,7 @@ id_albuma,genre
 495,Acoustic Rock
 495,Alternative Rock
 496,Video Game Music
-496,Sequencer &amp; Tracker
+496,Sequencer & Tracker
 497,Heavy Metal
 497,NWOBHM
 498,Electronic
@@ -1228,7 +1228,7 @@ id_albuma,genre
 661,Art Rock
 661,Art Pop
 662,Progressive Rock
-663,Contemporary R&amp;B
+663,Contemporary R&B
 663,Art Pop
 664,Post-Rock
 665,Film Score
@@ -1271,9 +1271,9 @@ id_albuma,genre
 687,Post-Industrial
 688,Brutal Death Metal
 689,Krautrock
-690,Canzone d&#39;autore
+690,Canzone d'autore
 691,Video Game Music
-691,Sequencer &amp; Tracker
+691,Sequencer & Tracker
 692,Experimental Rock
 692,Avant-Folk
 692,Singer/Songwriter
@@ -1295,7 +1295,7 @@ id_albuma,genre
 702,Death Metal
 703,Doom Metal
 703,Stoner Metal
-704,Contemporary R&amp;B
+704,Contemporary R&B
 704,Pop
 705,Psychedelic Rock
 706,Chamber Folk
@@ -1440,7 +1440,7 @@ id_albuma,genre
 788,Viking Metal
 789,Blues Rock
 790,Video Game Music
-790,Sequencer &amp; Tracker
+790,Sequencer & Tracker
 791,Power Metal
 792,Indie Rock
 792,Post-Punk Revival
@@ -1486,8 +1486,8 @@ id_albuma,genre
 815,Country
 815,Singer/Songwriter
 815,Contemporary Folk
-816,Rock &amp; Roll
-816,Rhythm &amp; Blues
+816,Rock & Roll
+816,Rhythm & Blues
 817,Jazz Fusion
 817,Jazz-Rock
 818,Southern Soul
@@ -1561,12 +1561,12 @@ id_albuma,genre
 856,Abstract Hip Hop
 856,Boom Bap
 857,Video Game Music
-857,Sequencer &amp; Tracker
+857,Sequencer & Tracker
 857,Ambient
 858,UK Hip Hop
 858,Conscious Hip Hop
 859,Soul
-859,Rhythm &amp; Blues
+859,Rhythm & Blues
 859,Pop Soul
 860,Singer/Songwriter
 860,Americana
@@ -1596,7 +1596,7 @@ id_albuma,genre
 876,Krautrock
 877,Heavy Psych
 877,Hard Rock
-878,Canzone d&#39;autore
+878,Canzone d'autore
 878,Chamber Folk
 879,Funk
 879,Soul
@@ -1614,7 +1614,7 @@ id_albuma,genre
 886,Post-Punk
 886,Post-Hardcore
 887,Soul
-887,Rhythm &amp; Blues
+887,Rhythm & Blues
 888,East Coast Hip Hop
 888,Boom Bap
 888,Conscious Hip Hop
@@ -1779,7 +1779,7 @@ id_albuma,genre
 980,Post-Metal
 981,Neofolk
 982,American Primitivism
-983,Rhythm &amp; Blues
+983,Rhythm & Blues
 983,Soul
 983,Soul Blues
 984,Celtic Rock
@@ -1845,7 +1845,7 @@ id_albuma,genre
 1015,Death Metal
 1016,Sophisti-Pop
 1016,Smooth Soul
-1017,Contemporary R&amp;B
+1017,Contemporary R&B
 1018,Progressive Electronic
 1018,Film Score
 1019,Blues Rock
@@ -1928,7 +1928,7 @@ id_albuma,genre
 1061,Tape Music
 1061,Stochastic Music
 1062,Synth Funk
-1062,Contemporary R&amp;B
+1062,Contemporary R&B
 1062,Pop Soul
 1063,Funk
 1063,Soul
@@ -2014,7 +2014,7 @@ id_albuma,genre
 1105,Contemporary Folk
 1106,East Coast Hip Hop
 1106,Conscious Hip Hop
-1107,Rhythm &amp; Blues
+1107,Rhythm & Blues
 1107,Film Soundtrack
 1108,Psychedelic Soul
 1109,Psychedelic Rock
@@ -2144,7 +2144,7 @@ id_albuma,genre
 1175,Art Rock
 1176,Hindustani Classical Music
 1177,Video Game Music
-1177,Sequencer &amp; Tracker
+1177,Sequencer & Tracker
 1178,Film Score
 1179,Bluegrass
 1179,Traditional Country
@@ -2412,7 +2412,7 @@ id_albuma,genre
 1329,MPB
 1329,Folk Rock
 1330,Video Game Music
-1330,Sequencer &amp; Tracker
+1330,Sequencer & Tracker
 1331,Pop Rock
 1331,Singer/Songwriter
 1332,Minimal Techno
@@ -2467,7 +2467,7 @@ id_albuma,genre
 1359,Merseybeat
 1359,Pop Rock
 1360,Glitch Pop
-1360,Alternative R&amp;B
+1360,Alternative R&B
 1361,Roots Rock
 1361,Folk Rock
 1362,Thrash Metal
@@ -2707,7 +2707,7 @@ id_albuma,genre
 1488,Heavy Metal
 1489,Hard Rock
 1489,Heavy Metal
-1490,Canzone d&#39;autore
+1490,Canzone d'autore
 1490,Singer/Songwriter
 1491,Modern Classical
 1491,Film Score
@@ -2800,7 +2800,7 @@ id_albuma,genre
 1543,Glam Rock
 1544,Video Game Music
 1544,Ambient
-1544,Sequencer &amp; Tracker
+1544,Sequencer & Tracker
 1545,Anarcho-Punk
 1545,Hardcore Punk
 1546,Heavy Metal
@@ -2950,7 +2950,7 @@ id_albuma,genre
 1622,Jazz Fusion
 1623,Television Music
 1623,Musical Comedy
-1623,Children&#39;s Music
+1623,Children's Music
 1623,Pop
 1623,Rock
 1624,Jazz Fusion
@@ -3085,7 +3085,7 @@ id_albuma,genre
 1692,Psychedelic Rock
 1693,Southern Rock
 1693,Boogie Rock
-1694,Contemporary R&amp;B
+1694,Contemporary R&B
 1694,Downtempo
 1695,Krautrock
 1695,Psychedelic Rock
@@ -3106,13 +3106,13 @@ id_albuma,genre
 1705,Film Soundtrack
 1705,Jazz Pop
 1706,Funk
-1706,New Orleans R&amp;B
+1706,New Orleans R&B
 1707,New Wave
 1708,Celtic New Age
 1708,Celtic Folk Music
 1708,Contemporary Folk
 1709,Musical Comedy
-1709,Sequencer &amp; Tracker
+1709,Sequencer & Tracker
 1709,Musical Parody
 1709,Novelty
 1710,Art Punk
@@ -3393,7 +3393,7 @@ id_albuma,genre
 1854,Modern Classical
 1855,Video Game Music
 1855,Atmospheric Drum and Bass
-1855,Sequencer &amp; Tracker
+1855,Sequencer & Tracker
 1856,Neo-Soul
 1857,UK Hip Hop
 1857,Electropop
@@ -3498,7 +3498,7 @@ id_albuma,genre
 1909,Hard Bop
 1910,Avant-Garde Jazz
 1911,Post-Punk
-1912,Alternative R&amp;B
+1912,Alternative R&B
 1912,Art Pop
 1913,Indietronica
 1914,New Wave
@@ -3573,7 +3573,7 @@ id_albuma,genre
 1951,Death Metal
 1952,Progressive Metal
 1953,Rockabilly
-1953,Rock &amp; Roll
+1953,Rock & Roll
 1954,Thrash Metal
 1954,Technical Thrash Metal
 1955,J-Pop
@@ -3587,7 +3587,7 @@ id_albuma,genre
 1959,Zeuhl
 1959,Film Score
 1960,Post-Bop
-1961,Canzone d&#39;autore
+1961,Canzone d'autore
 1962,Indie Pop
 1963,Contemporary Folk
 1963,Singer/Songwriter
@@ -3705,7 +3705,7 @@ id_albuma,genre
 2027,Heavy Metal
 2027,US Power Metal
 2028,Neo-Soul
-2028,Contemporary R&amp;B
+2028,Contemporary R&B
 2029,Groove Metal
 2029,Thrash Metal
 2030,Motown Sound
@@ -3805,7 +3805,7 @@ id_albuma,genre
 2080,Alternative Rock
 2080,Indie Pop
 2081,Rock
-2081,Rhythm &amp; Blues
+2081,Rhythm & Blues
 2081,Blue-Eyed Soul
 2082,Funeral Doom Metal
 2082,Death Doom Metal
@@ -4138,7 +4138,7 @@ id_albuma,genre
 2257,Singer/Songwriter
 2257,Folk Rock
 2258,Dance-Pop
-2258,Contemporary R&amp;B
+2258,Contemporary R&B
 2258,Pop
 2259,Experimental Rock
 2259,Avant-Garde Metal
@@ -4207,7 +4207,7 @@ id_albuma,genre
 2293,Southern Rock
 2294,Deep Funk
 2294,Funk
-2294,New Orleans R&amp;B
+2294,New Orleans R&B
 2295,Standards
 2295,Country Pop
 2296,Progressive Rock
@@ -4329,7 +4329,7 @@ id_albuma,genre
 2367,Singer/Songwriter
 2367,Folk Rock
 2367,Alt-Country
-2368,Canzone d&#39;autore
+2368,Canzone d'autore
 2368,Blues Rock
 2368,Canzone napoletana
 2369,Progressive Rock
