@@ -32,9 +32,8 @@ for i, album in enumerate(albumi):
         list_of_dict_for_genres.append({"id_albuma": album["id"], "genre": genre})
 
     for descriptive_word in album["descriptive_words"]:
-        if not is_duplicated(list_of_dict_for_desc_words, "descriptive_word", descriptive_word):
-            list_of_dict_for_desc_words.append({"id_descriptive_word": next_id_desc_words, "descriptive_word": descriptive_word})
-            next_id_desc_words += 1
+        list_of_dict_for_desc_words.append({"id_albuma": album["id"], "descriptive_word": descriptive_word})
+        next_id_desc_words += 1
 
 with open("artists.csv", "w") as dat:
     writer = csv.DictWriter(dat, fieldnames=["id_artist", "artist_name"])
@@ -49,7 +48,7 @@ with open("genres.csv", "w") as dat:
         writer.writerow(data)
 
 with open("descriptive_words.csv", "w") as dat:
-    writer = csv.DictWriter(dat, fieldnames=["id_descriptive_word", "descriptive_word"])
+    writer = csv.DictWriter(dat, fieldnames=["id_albuma", "descriptive_word"])
     writer.writeheader()
     for data in list_of_dict_for_desc_words:
         writer.writerow(data)
@@ -60,12 +59,20 @@ for album in albumi:
     del album["genres"]
     del album["descriptive_words"]
 
-top_row = list(albumi[0].keys())
+top_row = list(albumi[0].keys()) + ["release_year"]
 
 with open("albumi.csv", "w") as dat:
     writer = csv.DictWriter(dat, fieldnames=top_row)
     writer.writeheader()
     for data in albumi:
+        try:
+            data["release_year"] = int(data["release_date"].split(" ")[-1])
+        except:
+            try:
+                data["release_year"] = int(data["release_date"])
+            except:
+                print(data, "is gay")
+
         writer.writerow(data)
 
 

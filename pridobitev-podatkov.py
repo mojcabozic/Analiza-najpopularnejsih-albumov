@@ -2,12 +2,13 @@ import re
 import requests
 import os
 import json
+import html
 
 
 
 def naredi_seznam_blokov():
     with open("skupna-datoteka.html") as dat:
-        text = dat.read() 
+        text = html.unescape(dat.read())
 
 
     vzorec_bloka = re.compile(
